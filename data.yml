@@ -1,0 +1,4782 @@
+---
+- :retailer: Halal Cart near Whole Foods
+  :id: 4ed006b02c5bc3505683822a
+  :zip: '10002'
+  :checkins: 30
+  :usersCount: 18
+  :tipCount: 1
+- :retailer: Whole Foods Market Regional Office
+  :id: 4c65866419f3c9b6eb509dff
+  :zip: '91403'
+  :checkins: 239
+  :usersCount: 55
+  :tipCount: 0
+- :retailer: whole foods
+  :id: 54edfaf0498e114103de511e
+  :zip: '60614'
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Spec's Wines, Spirits & Finer Foods
+  :id: 4ac68f36f964a5200db520e3
+  :zip: '77006'
+  :checkins: 16855
+  :usersCount: 5594
+  :tipCount: 103
+- :retailer: Empire Foods
+  :id: 4ac74841f964a520d8b620e3
+  :zip: '19147'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Down Under Foods
+  :id: 572c0400498eb68735b3127b
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Greenleaf Wholesale Florist
+  :id: 4db034f043a1bea42bb1e88a
+  :zip: '78207'
+  :checkins: 53
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: World Foods Supermarket
+  :id: 4bd4d1d5637ba593778bf570
+  :zip: '92115'
+  :checkins: 687
+  :usersCount: 224
+  :tipCount: 6
+- :retailer: Whole Earth Provisioning
+  :id: 4bd23dc89854d13a0657fb4d
+  :zip: '75206'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Jalimex Foods Corp.
+  :id: 50ee42abe4b08462bdd2fefd
+  :zip: '95133'
+  :checkins: 27
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Whole Earth Provision Company / The North Face Store
+  :id: 4b0d5007f964a5201f4623e3
+  :zip: '78705'
+  :checkins: 366
+  :usersCount: 295
+  :tipCount: 2
+- :retailer: Deandre-Fine Foods
+  :id: 4f329f7219836c91c7e9c179
+  :zip: '46208'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Flash Foods
+  :id: 4bfee003c30a2d7fe322101d
+  :zip: '32220'
+  :checkins: 218
+  :usersCount: 99
+  :tipCount: 2
+- :retailer: 'Whole Foods Market Ocean Ave: Admin Offices'
+  :id: 502d53b8e4b01882f7cf88b5
+  :zip: '94112'
+  :checkins: 89
+  :usersCount: 47
+  :tipCount: 1
+- :retailer: Parker Food Science and Technology
+  :id: 4b4dfcc6f964a5202fdd26e3
+  :zip: '43210'
+  :checkins: 2449
+  :usersCount: 207
+  :tipCount: 7
+- :retailer: Superior Wholesale
+  :id: 5060c1e0e4b0c4f8db4c967d
+  :zip: '28206'
+  :checkins: 497
+  :usersCount: 7
+  :tipCount: 2
+- :retailer: Tyson Foods
+  :id: 4d5ac7c535966dcbd72a6528
+  :zip: '76106'
+  :checkins: 37
+  :usersCount: 24
+  :tipCount: 0
+- :retailer: Franks Anatea Street Foods
+  :id: 50ba942be4b02759416e0f57
+  :zip: '48202'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: sigler wholesale, inc.
+  :id: 507f30fee4b09a52c044b94e
+  :zip: '79915'
+  :checkins: 8
+  :usersCount: 3
+  :tipCount: 1
+- :retailer: Memphis Foods International
+  :id: 4cb4915fb4b0a35df04168ce
+  :zip: '38114'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Wan Hua Foods
+  :id: 5148d4d2e4b0fcbf327d07b3
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: 5430 Juice Bar at Whole Foods Market Pearl
+  :id: 515ee699e4b0e6feb6c3e256
+  :zip: '80301'
+  :checkins: 6
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: The Sports Spot Whole Foods
+  :id: 519925d6498ee2ba77b32a7c
+  :zip: '22033'
+  :checkins: 393
+  :usersCount: 109
+  :tipCount: 3
+- :retailer: Whole Foods Market North Atlantic Regional Office
+  :id: 4b8ec534f964a520113633e3
+  :zip: '02140'
+  :checkins: 915
+  :usersCount: 147
+  :tipCount: 3
+- :retailer: Food Security Partners
+  :id: 4bda15592a3a0f471ab0a9b6
+  :zip: '37201'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Giant Food
+  :id: 4ae4f460f964a520a89f21e3
+  :zip: '21208'
+  :checkins: 3271
+  :usersCount: 646
+  :tipCount: 11
+- :retailer: Beer Section At Prime Foods
+  :id: 4ddd69ed45dd033c39181c35
+  :zip: '73112'
+  :checkins: 106
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Gordon Food Service Store
+  :id: 4ed93ae56aa3e76e1abafa3d
+  :zip: '47129'
+  :checkins: 162
+  :usersCount: 55
+  :tipCount: 1
+- :retailer: Whole Health Medical Clinic
+  :id: 4b56170af964a520e0ff27e3
+  :zip: '97239'
+  :checkins: 7
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Quality Food Service Truck
+  :id: 5112aac2e4b0c57623e10b08
+  :zip: '89119'
+  :checkins: 30
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: AP foods
+  :id: 4e02796f483bb38cf0eff9bb
+  :zip:
+  :checkins: 13
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Roofing Wholesale Albuquerque
+  :id: 4f9028e9e4b06228c975adea
+  :zip: '87107'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: G Hing Food Service
+  :id: 4f3242b819836c91c7c61320
+  :zip: '85713'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Wholesale Appliance Depot
+  :id: 4dfcef8b227185f38b969982
+  :zip:
+  :checkins: 9
+  :usersCount: 9
+  :tipCount: 1
+- :retailer: Foods Co Regional Office
+  :id: 50633ebde4b0f53ec860d367
+  :zip: '95834'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Astro Pub @ Whole Foods Market
+  :id: 55848350498eb4d64a328fb8
+  :zip:
+  :checkins: 196
+  :usersCount: 105
+  :tipCount: 6
+- :retailer: Silva Foods Of Kansas City
+  :id: 4f32174d19836c91c7b4e1db
+  :zip: '66103'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: The Watering Hole
+  :id: 4dfc1273b61c84188eebb3f7
+  :zip: '85224'
+  :checkins: 3510
+  :usersCount: 468
+  :tipCount: 16
+- :retailer: BJ's Wholesale Club
+  :id: 4bc1190f461576b02f727b32
+  :zip: '23502'
+  :checkins: 2386
+  :usersCount: 700
+  :tipCount: 4
+- :retailer: Cindys Gourmet Foods
+  :id: 4f40997ae4b029502942cd25
+  :zip: '30308'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: LaGrees Venture Foods
+  :id: 4d9de9d0baae548147d5fc64
+  :zip:
+  :checkins: 19
+  :usersCount: 10
+  :tipCount: 3
+- :retailer: Con Agra Foods RQI
+  :id: 4d2b1f01c406721ecb9889b6
+  :zip: '68102'
+  :checkins: 9
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: ProSource Wholesale Flooring
+  :id: 4c6d6d9265eda09308934ed0
+  :zip: '27604'
+  :checkins: 80
+  :usersCount: 19
+  :tipCount: 0
+- :retailer: International Foods
+  :id: 4f32533a19836c91c7cc9f4b
+  :zip: '33145'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Allegro coffee at Whole Foods
+  :id: 5692f9b4498ed86bfa734834
+  :zip:
+  :checkins: 31
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Kraft Foods
+  :id: 51ca15df498ecdd1bb53eb83
+  :zip:
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Sysco Foods
+  :id: 4c8fbf1d590ab1f7ea98e17d
+  :zip: '74145'
+  :checkins: 25
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Whole Fitness by Jess
+  :id: 570e7385498eb3850db4d52b
+  :zip: '44120'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Wholesale Fireworks
+  :id: 4ff2efd6e4b01870b3d448ba
+  :zip: '67205'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Capital Foods
+  :id: 5037dad3e4b0fc35e38f6d37
+  :zip: '75050'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Jewel's Food Store
+  :id: 4b75f10ef964a520ca302ee3
+  :zip: '70130'
+  :checkins: 143
+  :usersCount: 57
+  :tipCount: 2
+- :retailer: abc foods
+  :id: 555e59f0498e3524539b5ebc
+  :zip:
+  :checkins: 11
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Amandäo Drinks and Foods
+  :id: 4f1a2b8be4b0b4fde801e13c
+  :zip: '33610'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: H.P.C. Foods
+  :id: 4b5a0d4ef964a5202daa28e3
+  :zip: '96817'
+  :checkins: 149
+  :usersCount: 10
+  :tipCount: 1
+- :retailer: United Natural Foods
+  :id: 4f32aed119836c91c7ef821a
+  :zip: '80011'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Whole Foods Distributors
+  :id: 4d665207485ab1f777cc6849
+  :zip: '90058'
+  :checkins: 87
+  :usersCount: 26
+  :tipCount: 1
+- :retailer: Ideal Foods Lunch Truck
+  :id: 4e013624d1647696f122d31e
+  :zip: '92802'
+  :checkins: 341
+  :usersCount: 77
+  :tipCount: 1
+- :retailer: International Foods Inc.
+  :id: 4db6d172f7b121c29f7a0822
+  :zip: '63147'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: United Natural Foods
+  :id: 4f3289bf19836c91c7e192ae
+  :zip: '92553'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 1
+- :retailer: Snappy foods
+  :id: 4f889e90e4b0a95f93295dfb
+  :zip: '78390'
+  :checkins: 11
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Sterling Wholesale Inc.
+  :id: 4f216afee4b028522e4a401f
+  :zip: '40353'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Panasai Foods
+  :id: 4f324b3919836c91c7c97d21
+  :zip: '15213'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Alaska Premium Food Source
+  :id: 4f32913f19836c91c7e46a63
+  :zip: '99645'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Terlouw Foods
+  :id: 4f32351c19836c91c7c0c0d6
+  :zip: '95210'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Zwanenberg Foods
+  :id: 4d36dc874d8a6dcb2293643f
+  :zip: '45238'
+  :checkins: 17
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Cub Foods
+  :id: 4b10bcb0f964a5203c7523e3
+  :zip: '55076'
+  :checkins: 1750
+  :usersCount: 349
+  :tipCount: 4
+- :retailer: Kroger - Frozen Food Section
+  :id: 510d8402e4b0ab889f31d769
+  :zip: '43616'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Lowes foods
+  :id: 4c882814a0ffb60cdb1220c5
+  :zip: '27455'
+  :checkins: 23
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Whole Foods Deli Dept
+  :id: 5378e3e6498e84f67c917baa
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Whole Earth Provision Company
+  :id: 4c83fb8c51ada1cd58e32a10
+  :zip: '75230'
+  :checkins: 705
+  :usersCount: 304
+  :tipCount: 3
+- :retailer: Van Rex Gourmet Foods
+  :id: 4f321bf819836c91c7b6cc28
+  :zip: '89120'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Terry's Family Foods
+  :id: 4da334a50f578cfa91c0b318
+  :zip: '68446'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: WillowBrook Wholesale Food & Supplies
+  :id: 51b0b8b18bbd5103f693df6d
+  :zip: '14206'
+  :checkins: 25
+  :usersCount: 13
+  :tipCount: 1
+- :retailer: Whole Foods
+  :id: 56104d59498ebe207bef6d59
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: World Foods Supermarket
+  :id: 4bd4d1d5637ba593778bf570
+  :zip: '92115'
+  :checkins: 687
+  :usersCount: 224
+  :tipCount: 6
+- :retailer: Trinity Wholesale Distributors
+  :id: 4e662f0662e13e3bd036e019
+  :zip:
+  :checkins: 12
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Tropical Foods
+  :id: 4d18d007b15cb1f7fbfcbd21
+  :zip: '32811'
+  :checkins: 37
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Whole Aveda Salon Spa - Largo
+  :id: 56b5045d498e4202426e1c9a
+  :zip:
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Costco Wholesale
+  :id: 4b0c61def964a520323c23e3
+  :zip: '85226'
+  :checkins: 11602
+  :usersCount: 2618
+  :tipCount: 29
+- :retailer: Eduardo's Mexican Food Steaks
+  :id: 4c34d430ed37a5936b8f6f03
+  :zip: '78046'
+  :checkins: 331
+  :usersCount: 123
+  :tipCount: 8
+- :retailer: Gap
+  :id: 4ad50edcf964a5208e0121e3
+  :zip: '07470'
+  :checkins: 1519
+  :usersCount: 723
+  :tipCount: 1
+- :retailer: GapKids
+  :id: 4b527cd6f964a520847f27e3
+  :zip: '91210'
+  :checkins: 85
+  :usersCount: 70
+  :tipCount: 1
+- :retailer: San Soo Gab San
+  :id: 4ab12fd1f964a520616820e3
+  :zip: '60625'
+  :checkins: 5243
+  :usersCount: 3082
+  :tipCount: 48
+- :retailer: Gap Kids
+  :id: 503951aee4b0bbf1afaee236
+  :zip: '77546'
+  :checkins: 13
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Shell
+  :id: 4c02c4d0187ec928c3b6b47b
+  :zip: '19808'
+  :checkins: 205
+  :usersCount: 83
+  :tipCount: 0
+- :retailer: babyGap
+  :id: 503584bfe4b00d1850750cda
+  :zip: '85226'
+  :checkins: 10
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Paradise Fun Center
+  :id: 4c76ab7d3adda143abbd0aaf
+  :zip: '78130'
+  :checkins: 79
+  :usersCount: 46
+  :tipCount: 1
+- :retailer: Gap Outlet
+  :id: 4be3810a660ec928506bcc3b
+  :zip: '92173'
+  :checkins: 996
+  :usersCount: 762
+  :tipCount: 6
+- :retailer: Gap Kids
+  :id: 4e319b121495f249f76d7be4
+  :zip:
+  :checkins: 18
+  :usersCount: 16
+  :tipCount: 0
+- :retailer: babyGap
+  :id: 4cd6d0b0dfb4a1cdddfb605c
+  :zip:
+  :checkins: 13
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Gap Strategies
+  :id: 543c06b0498e7f93270a71ea
+  :zip: '78610'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Baby Gap
+  :id: 4df6d47362e141c90762fa4d
+  :zip:
+  :checkins: 25
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: gap cheveron
+  :id: 50315f56e4b0b66653a2de30
+  :zip: '32065'
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Gap Factory Store
+  :id: 509dec38e4b07eb4d89a7882
+  :zip: '94551'
+  :checkins: 620
+  :usersCount: 455
+  :tipCount: 0
+- :retailer: Gap
+  :id: 4b2a70bef964a52035a924e3
+  :zip: '43240'
+  :checkins: 723
+  :usersCount: 443
+  :tipCount: 3
+- :retailer: Baby Gap
+  :id: 4e0635a9fa767637fd233010
+  :zip:
+  :checkins: 33
+  :usersCount: 24
+  :tipCount: 0
+- :retailer: Gap Body
+  :id: 561abf83498e2063947a1409
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Gapp Building
+  :id: 5137466ae4b084a2cee50cc9
+  :zip: '48150'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sierra Vista Trail - Anthony's Gap
+  :id: 56d8e9f4498ef1500af640c7
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Gap Outlet
+  :id: 4c968795f7cfa1cded10c715
+  :zip: '38664'
+  :checkins: 104
+  :usersCount: 78
+  :tipCount: 0
+- :retailer: GAPPS
+  :id: 4fb6cde9e4b06452f3192be9
+  :zip: '98101'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Gap Outlet
+  :id: 4b65fa73f964a520370c2be3
+  :zip: '80104'
+  :checkins: 526
+  :usersCount: 338
+  :tipCount: 3
+- :retailer: Westfield Annapolis Mall
+  :id: 4b239d57f964a520385724e3
+  :zip: '21401'
+  :checkins: 35075
+  :usersCount: 9282
+  :tipCount: 53
+- :retailer: Gap Outlet
+  :id: 4b81618af964a5209ca230e3
+  :zip: 02093
+  :checkins: 1938
+  :usersCount: 1287
+  :tipCount: 10
+- :retailer: GAPland
+  :id: 520f663d11d2012cfb12a0ec
+  :zip:
+  :checkins: 41
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Westfield Annapolis Mall
+  :id: 4b239d57f964a520385724e3
+  :zip: '21401'
+  :checkins: 35075
+  :usersCount: 9282
+  :tipCount: 53
+- :retailer: Baby Gap
+  :id: 4f662522e4b0c65cc5cc8a11
+  :zip: '73072'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Gap Factory Store
+  :id: 53093dce498e99b5938844c3
+  :zip: '42701'
+  :checkins: 19
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: R/GA Portland
+  :id: 51dedcb7498ee58d8fe6532e
+  :zip: '97209'
+  :checkins: 1292
+  :usersCount: 73
+  :tipCount: 3
+- :retailer: GAP Appraisals, Inc.
+  :id: 53ec77ff498eb21a2b6fa1c5
+  :zip: '89166'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gap Outlet
+  :id: 4b8026aef964a520f35630e3
+  :zip: '53018'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Miracle-Ear
+  :id: 4c62c071a86d03bb06892f6a
+  :zip: '87110'
+  :checkins: 55
+  :usersCount: 31
+  :tipCount: 0
+- :retailer: Charouleau Gap
+  :id: 4e2c48a3d22d3f83c897853e
+  :zip:
+  :checkins: 20
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: A G Appliance Services
+  :id: 54ae3b56498e7274a68e107a
+  :zip: '93722'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: gap inc direct break room
+  :id: 516eeca2e4b002b21d0f3c74
+  :zip:
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: The Grove Parking Garage
+  :id: 4cd9900ba99d370436e50bce
+  :zip: '90036'
+  :checkins: 3593
+  :usersCount: 1552
+  :tipCount: 8
+- :retailer: BabyGap KidsGap
+  :id: 4c5db8cdbfa5952131c782ff
+  :zip: '64153'
+  :checkins: 78
+  :usersCount: 46
+  :tipCount: 0
+- :retailer: D & G Appliance LLC
+  :id: 4e8a001e1081b7ce41faf6c3
+  :zip: '85381'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Bluebird Gap Farm
+  :id: 4b8acd14f964a520ee8132e3
+  :zip: '23666'
+  :checkins: 466
+  :usersCount: 330
+  :tipCount: 9
+- :retailer: GA Power Customer Resource Center
+  :id: 536816df498ef38a8475439e
+  :zip: '30338'
+  :checkins: 47
+  :usersCount: 16
+  :tipCount: 0
+- :retailer: Austin Bluffs And Templeton Gap
+  :id: 5085e8eae4b0192cfd887f2e
+  :zip: '80918'
+  :checkins: 437
+  :usersCount: 15
+  :tipCount: 0
+- :retailer: Baby Gap
+  :id: 4cafed26562d224bfd711288
+  :zip: '68144'
+  :checkins: 43
+  :usersCount: 26
+  :tipCount: 0
+- :retailer: GapMaternity
+  :id: 52fc30d5498e8b6b15e1c113
+  :zip: '27713'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Closing The Gaps
+  :id: 54b4c1ac498eb024a8612284
+  :zip: '33149'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gap Photo Studio - Howard St
+  :id: 50a28732e4b07e886c136c67
+  :zip: '94103'
+  :checkins: 59
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: Pad Ga Pow
+  :id: 56eae8c1498ebf49300c58cb
+  :zip:
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Standing In The Gap
+  :id: 4efe22c49911b33a0f51b014
+  :zip: '74055'
+  :checkins: 126
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Mind The Gap
+  :id: 5098a7e9e4b09681c992be8e
+  :zip: '44224'
+  :checkins: 55
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Gap
+  :id: 4ba2cc19f964a520fe1938e3
+  :zip: '67206'
+  :checkins: 678
+  :usersCount: 263
+  :tipCount: 1
+- :retailer: Baby Gap
+  :id: 4d6829ccc406f04d4e5af74c
+  :zip: '76132'
+  :checkins: 53
+  :usersCount: 18
+  :tipCount: 0
+- :retailer: GAP
+  :id: 4c62c01aa86d03bb76882f6a
+  :zip: '70460'
+  :checkins: 10
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Wind Gap Pumping Plant
+  :id: 4fd4f772e4b0d6a97db30b9e
+  :zip: '93313'
+  :checkins: 3
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Gap outlet
+  :id: 4f5399d4e4b036244b722740
+  :zip: '34222'
+  :checkins: 43
+  :usersCount: 31
+  :tipCount: 0
+- :retailer: Bridging the Gap Metaphorical Educational Learning Experience
+  :id: 56d6f09a498e85376c0d50bc
+  :zip: '96792'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gapter
+  :id: 5315286ee4b0e72a36f94276
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gap Kids
+  :id: 4d0d27b0903d37046348c255
+  :zip:
+  :checkins: 71
+  :usersCount: 48
+  :tipCount: 0
+- :retailer: Gap Kids - Los Cerritos Mall
+  :id: 4bd75eb15cf276b0ef1c9b00
+  :zip:
+  :checkins: 407
+  :usersCount: 84
+  :tipCount: 0
+- :retailer: GapKids
+  :id: 4cc71d09b3de9c748cdab4c9
+  :zip:
+  :checkins: 23
+  :usersCount: 15
+  :tipCount: 0
+- :retailer: Baby Gap
+  :id: 4c6b49107c052d7f557229cf
+  :zip: '92691'
+  :checkins: 85
+  :usersCount: 51
+  :tipCount: 1
+- :retailer: Gapper's
+  :id: 4be48153910020a14ccfd114
+  :zip: '78413'
+  :checkins: 13
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Rogers Gap Road
+  :id: 4bfb25d0f214a593d8e3ae0e
+  :zip: '40324'
+  :checkins: 3
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: GAPRC
+  :id: 5007f8a8e4b0854637995392
+  :zip: '15642'
+  :checkins: 13
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: 'The Grinder: A.S.I.G. APS Facility'
+  :id: 4e8424438231de27b7ffb15c
+  :zip: '99502'
+  :checkins: 973
+  :usersCount: 8
+  :tipCount: 2
+- :retailer: Gap
+  :id: 4c62bf8aa86d03bba0872f6a
+  :zip: '95356'
+  :checkins: 813
+  :usersCount: 106
+  :tipCount: 2
+- :retailer: GAP Distribution Center
+  :id: 4c422fabaf052d7f43967e79
+  :zip: '41005'
+  :checkins: 8
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Gap Kids
+  :id: 4cd5894767adf04dfcbe2d91
+  :zip: '55305'
+  :checkins: 72
+  :usersCount: 34
+  :tipCount: 0
+- :retailer: Gap Outlet
+  :id: 4bf81b534a67c92849c424cf
+  :zip: '48161'
+  :checkins: 342
+  :usersCount: 197
+  :tipCount: 4
+- :retailer: GAP Kids
+  :id: 4fa18ecfe4b0badc8162888d
+  :zip: '27455'
+  :checkins: 4
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Gap
+  :id: 4b9c2023f964a520b84c36e3
+  :zip: '07652'
+  :checkins: 1428
+  :usersCount: 633
+  :tipCount: 2
+- :retailer: Gapkids Inwood Village
+  :id: 5276dd0d11d220aa1780b1c7
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: GAP Appraisals, Inc.
+  :id: 53ec77ff498eb21a2b6fa1c5
+  :zip: '89166'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gap Outlet
+  :id: 5286d58c498e035907084302
+  :zip: '68028'
+  :checkins: 140
+  :usersCount: 95
+  :tipCount: 1
+- :retailer: GapKids
+  :id: 4d99e513c19fb60c47c2cd65
+  :zip: '14221'
+  :checkins: 13
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Gap Factory Store
+  :id: 542deabc498ef7f7cf1a9854
+  :zip: '11226'
+  :checkins: 51
+  :usersCount: 29
+  :tipCount: 0
+- :retailer: Gap Kids
+  :id: 4d85197af1e56ea8b269838a
+  :zip: '92025'
+  :checkins: 49
+  :usersCount: 37
+  :tipCount: 0
+- :retailer: Gap Kids
+  :id: 4ba5387ef964a520bbed38e3
+  :zip: '46825'
+  :checkins: 42
+  :usersCount: 21
+  :tipCount: 0
+- :retailer: Crave Gaphix
+  :id: 542dadfb498e64bc7ce2a56a
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Holly G Apartment 405
+  :id: 4d9e7f14a77d816e4e84ed08
+  :zip: '33620'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: D & G Appliance LLC
+  :id: 4e8a001e1081b7ce41faf6c3
+  :zip: '85381'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Gap Kids
+  :id: 4e10b7ef1f6e671dd9e159dc
+  :zip:
+  :checkins: 22
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Hertz Rent-a-Car & Parking Garage
+  :id: 51bbb8bc498e408f1af0e60f
+  :zip: '10003'
+  :checkins: 9
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: 17 Hertz Studio
+  :id: 5029431fe4b05db3afc6f68a
+  :zip: '91601'
+  :checkins: 131
+  :usersCount: 27
+  :tipCount: 1
+- :retailer: Hertz Rent a Car
+  :id: 4bb62fb0ef159c74358c75f7
+  :zip: '60406'
+  :checkins: 12
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509df1bae4f4c27a493c
+  :zip: '77013'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4dbe
+  :zip: '19128'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ef1bae4f4c27a4a5f
+  :zip: '85254'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509df1bae4f4c27a4936
+  :zip: '78006'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ef1bae4f4c27a49fa
+  :zip: '92123'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ef1bae4f4c27a4a15
+  :zip: '75001'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a1f1bae4f4c27a4c1f
+  :zip: '94089'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: hertz
+  :id: 53907d37498e4609d3c00bc3
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4d9f
+  :zip: '46240'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509df1bae4f4c27a494a
+  :zip: '32095'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 56be6e89cd10dbe60d853da5
+  :zip: '94112'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rental Car
+  :id: 500980a43d7ccf58962a885d
+  :zip: '41048'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Car Sales Rock Hill
+  :id: 51b1b205abd824a73c66c12b
+  :zip: '29730'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ef1bae4f4c27a4a02
+  :zip: '75209'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 1
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a5000
+  :zip: '48084'
+  :checkins: 10
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Estacionamiento Hertz apto.
+  :id: 50f9c9bae4b0b85017346da0
+  :zip:
+  :checkins: 18
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ff1bae4f4c27a4b37
+  :zip: '38664'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4bc3bb30920eb7130def1d2c
+  :zip: '98002'
+  :checkins: 31
+  :usersCount: 19
+  :tipCount: 0
+- :retailer: Hertz Lost And Found Office
+  :id: 4df3a362d1649c8a28e3bdc8
+  :zip: '80249'
+  :checkins: 33
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Hertz Car Rental
+  :id: 51daefca498e4927ab75f865
+  :zip:
+  :checkins: 12
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a4f1bae4f4c27a4fe9
+  :zip: 01906
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4b8c
+  :zip: '37174'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4d18
+  :zip: '20740'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: La Quinta Inn & Suites Oklahoma City - Moore
+  :id: 4b5f0617f964a520b9a229e3
+  :zip: '73160'
+  :checkins: 207
+  :usersCount: 108
+  :tipCount: 3
+- :retailer: Hertz Rent a Car
+  :id: 507c50a1f1bae4f4c27a4c69
+  :zip: '40121'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a508c
+  :zip: '97055'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4ba8
+  :zip: '89011'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a5050
+  :zip: '53024'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Hertz Equipment Rental
+  :id: 50ec7948e4b037adab94f89e
+  :zip: '87109'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509ef1bae4f4c27a49af
+  :zip: '85622'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4bef
+  :zip: '93637'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4cd6
+  :zip: '95662'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4fe4bfeee4b023504e86ec1e
+  :zip: '92802'
+  :checkins: 16
+  :usersCount: 15
+  :tipCount: 0
+- :retailer: Bud Hertzog Stadium Lee's Summit HS
+  :id: 4e7d16d6f790851893962247
+  :zip:
+  :checkins: 87
+  :usersCount: 19
+  :tipCount: 2
+- :retailer: Hertz Rental Car
+  :id: 50f81becf0e4d3b49c38bdb0
+  :zip: '85260'
+  :checkins: 15
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4bfa
+  :zip: '23665'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4e15d9e1aeb733245ed2e02a
+  :zip: '30076'
+  :checkins: 120
+  :usersCount: 60
+  :tipCount: 2
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4d30
+  :zip: '80133'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Mansfield Hertz Funeral Home
+  :id: 4da20efa9935a09388c0ad6f
+  :zip: '51551'
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4baa
+  :zip: '27549'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509cf1bae4f4c27a485a
+  :zip: '33013'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: hertz
+  :id: 572d8cc8498e35181fd760b6
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a5082
+  :zip: '54016'
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4bd0
+  :zip: '74017'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a3f1bae4f4c27a4eb0
+  :zip: '44281'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a1f1bae4f4c27a4c83
+  :zip: '67114'
+  :checkins: 4
+  :usersCount: 2
+  :tipCount: 1
+- :retailer: Hertz Rent a Car
+  :id: 4b770143f964a520a5732ee3
+  :zip: '75093'
+  :checkins: 40
+  :usersCount: 32
+  :tipCount: 0
+- :retailer: Hertzak Laser Center
+  :id: 4db59c3bf7b121c29f61f600
+  :zip: '70458'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertzog Winery
+  :id: 4e677322ae609d64bce2ac58
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rental Car
+  :id: 500980a73d7ccf58962a8934
+  :zip: '33610'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509cf1bae4f4c27a4843
+  :zip: '96707'
+  :checkins: 9
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4f8d83f7e4b063e7daf749bf
+  :zip: '80109'
+  :checkins: 7
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Hertz
+  :id: 509b0a66e4b021f5bf5ad980
+  :zip: '91748'
+  :checkins: 29
+  :usersCount: 21
+  :tipCount: 0
+- :retailer: Hertz Equipment Rental
+  :id: 53a98434498e838bfe1f4cc3
+  :zip: '92806'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: CARSTAR
+  :id: 4f57da8ae4b0bd50f69ea5e5
+  :zip: '63376'
+  :checkins: 25
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4ccf1fab2fd9b60c70b479eb
+  :zip: '91791'
+  :checkins: 125
+  :usersCount: 57
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509df1bae4f4c27a48b2
+  :zip: '78362'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a1f1bae4f4c27a4c4c
+  :zip: '40475'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a3f1bae4f4c27a4e38
+  :zip: '15066'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a50d7
+  :zip: '99506'
+  :checkins: 6
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a1f1bae4f4c27a4c99
+  :zip: '95632'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a2f1bae4f4c27a4d64
+  :zip: '45056'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a5089
+  :zip: '55025'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertzfeld Poultry Farms, Inc.
+  :id: 4fbaa3a0e4b0cfcf19b29874
+  :zip: '43566'
+  :checkins: 19
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4bad
+  :zip: '27101'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 4f885d9ae4b057e27f803d31
+  :zip: '10017'
+  :checkins: 10
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: Hertz Car Sales Irving
+  :id: 5178fb34d86c594ae9c81a23
+  :zip: '75062'
+  :checkins: 5
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a0f1bae4f4c27a4bb3
+  :zip: '89103'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a3f1bae4f4c27a4e78
+  :zip: '68524'
+  :checkins: 47
+  :usersCount: 21
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c50a5f1bae4f4c27a5032
+  :zip: '14221'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hertz
+  :id: 51059f41e4b0d770d1752b1d
+  :zip: '10021'
+  :checkins: 39
+  :usersCount: 22
+  :tipCount: 0
+- :retailer: Hertz Rental
+  :id: 5164710ce4b07b3b2d5c14a5
+  :zip:
+  :checkins: 8
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Hertz
+  :id: 4e4001f21495bf24a5fb112e
+  :zip:
+  :checkins: 11
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: Hertz Rent a Car
+  :id: 507c509df1bae4f4c27a48fd
+  :zip: '32751'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Hertz Admin Office
+  :id: 4c08ef7cffb8c9b616f66861
+  :zip: '33607'
+  :checkins: 271
+  :usersCount: 28
+  :tipCount: 0
+- :retailer: Hertz equipment
+  :id: 52b434b211d211f59e1c0d63
+  :zip:
+  :checkins: 10
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Hertz Rental Car (inside Laredo International Airport)
+  :id: 541b6ff6498e7ff704fcdad0
+  :zip: '78041'
+  :checkins: 287
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Hotels AB
+  :id: 4c23c942a852c9288510e26c
+  :zip: '10003'
+  :checkins: 16
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Choice Locksmith Store
+  :id: 54a5538a498e80f1d17fb980
+  :zip: '90002'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: My Choice Food Mart
+  :id: 4c6756c119f3c9b6fedaa2ff
+  :zip: '60610'
+  :checkins: 84
+  :usersCount: 15
+  :tipCount: 0
+- :retailer: Clear Choice Orthodontics
+  :id: 515c53e8e4b0e071196f7df1
+  :zip:
+  :checkins: 36
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: Kids Choice Daycare
+  :id: 4e4bb844b0fbbc2182af669b
+  :zip: '19144'
+  :checkins: 11
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Student choice high school.
+  :id: 4c7d30c19221236acd6f7e3d
+  :zip: '85281'
+  :checkins: 51
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Value Place Hotel San Antonio
+  :id: 4bcf810c0ffdce72aa8eb2c0
+  :zip: '78218'
+  :checkins: 81
+  :usersCount: 17
+  :tipCount: 1
+- :retailer: Loews Coronado Bay Resort
+  :id: 40e0b100f964a52067021fe3
+  :zip: '92118'
+  :checkins: 7716
+  :usersCount: 3672
+  :tipCount: 61
+- :retailer: Energy Choice Experts
+  :id: 56bd3e50498e5673d0149b45
+  :zip: '75238'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: DoubleTree by Hilton Hotel San Jose Gateway Ballroom
+  :id: 55271da8498eb8ced46adce9
+  :zip:
+  :checkins: 8
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Austin's Choice Auto Repair
+  :id: 4d13ab0e00e8a1cdccb310a9
+  :zip: '78750'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: 1St choice garage door repair
+  :id: 5118dcea8aca68c5c62b4a8b
+  :zip: '46240'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 1
+- :retailer: Athlete's Choice Fitness Center
+  :id: 4c47500a0f5aa5939a7d7d76
+  :zip: '32218'
+  :checkins: 337
+  :usersCount: 45
+  :tipCount: 1
+- :retailer: Presidential Suite intercontinental hotel San Francisco
+  :id: 5245014b498e70b1872d0507
+  :zip:
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: off airport hotel shuttles
+  :id: 52093a1911d257e4e4ca90aa
+  :zip:
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Renaissance Hotel Shuttle
+  :id: 4e48920bb61c03d0cd28d068
+  :zip:
+  :checkins: 9
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: First Choice Food Mart
+  :id: 50363f2990e707f8017f31b2
+  :zip: '76135'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First Choice Home Health. Care
+  :id: 4e56c21db993a7398229da50
+  :zip:
+  :checkins: 70
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: 1st Choice Abatement & Demolition, LLC
+  :id: 525172fb7e48b2ca102b9b99
+  :zip: '88008'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Health Choice
+  :id: 500ec309e4b0439089cd52e8
+  :zip: '38120'
+  :checkins: 40
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: First Choice Legal
+  :id: 4e84b90e2c5b5b44351c5e97
+  :zip: '98103'
+  :checkins: 19
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Associated Luxury Hotels
+  :id: 4d6c0419306aa1cd10f81e24
+  :zip:
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: NARAL Pro-Choice Maryland
+  :id: 4c2c9ce7b34ad13a8788ebce
+  :zip: '20910'
+  :checkins: 29
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Hotel Stanley
+  :id: 4d929257f10ea0935126171e
+  :zip:
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Choice One Insurance Services, LLC
+  :id: 558a3a00498ecbac7100dff8
+  :zip: '37066'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Choice Pharmacy
+  :id: 4cb48949aef16dcb1fb0cf54
+  :zip: '21117'
+  :checkins: 14
+  :usersCount: 6
+  :tipCount: 1
+- :retailer: Metro Brokers of OK-CHOICE Realty
+  :id: 559ac7bd498e9ad79ed2bc14
+  :zip: '73010'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Choices Yogurt Bar
+  :id: 4e70edd0d1649bf270443216
+  :zip: '40220'
+  :checkins: 290
+  :usersCount: 161
+  :tipCount: 10
+- :retailer: Hotel Shuttle
+  :id: 500edac0e4b05190310d9f78
+  :zip: '97218'
+  :checkins: 33
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Choices
+  :id: 4bb82cd7314e9521fb44489d
+  :zip: '89108'
+  :checkins: 58
+  :usersCount: 28
+  :tipCount: 1
+- :retailer: AA Best Choice Sussex
+  :id: 55d40ccc498e345e7667c43d
+  :zip: '53051'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First Choice Community Healthcare, Edgewood Center
+  :id: 4c7bda1088449eb00d8fab79
+  :zip: '87015'
+  :checkins: 30
+  :usersCount: 10
+  :tipCount: 1
+- :retailer: First Choice Pools
+  :id: 50d18e1dc84c64a90261c9d6
+  :zip: '85743'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Tasca Restaurant Hotel Suiza
+  :id: 510ecd5ee4b04cfd39c5a53a
+  :zip: '93638'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Burial Insurance Choices
+  :id: 53896fba498e39acdc92820a
+  :zip: '88347'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Choice Logistics
+  :id: 4e0cbfeb6284f2bbda5c60cc
+  :zip: '90621'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: The Musician's Choice
+  :id: 4ed54fb2e3007ce6d80fbabb
+  :zip: '64068'
+  :checkins: 16
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Children's Choice Learning Center @ Banner Health
+  :id: 50057bcfe88978a443a1f4a3
+  :zip: '85206'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Asbury Settlement/1st Choice Title
+  :id: 4bb4b305f1b976b0d02b1f20
+  :zip: '23323'
+  :checkins: 9
+  :usersCount: 7
+  :tipCount: 1
+- :retailer: Right Choice Appliance Repair
+  :id: 521ba1ac11d2df8d9a37433f
+  :zip: '30316'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 1
+- :retailer: FIRST CHOICE EQUIPMENT SALES
+  :id: 5459a0d4498ef87f8e7a0c96
+  :zip: '81240'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Heartbreak Hotel/ Sparta
+  :id: 50731adce4b0e156bbbee5d4
+  :zip: '68005'
+  :checkins: 4
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: First Choice Pregnancy Solutions
+  :id: 551cf727498e26ce54627ad8
+  :zip: '27587'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Scotties Choice
+  :id: 4f32b76c19836c91c7f2b4ca
+  :zip: '33155'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Commune Hotels & Resorts
+  :id: 5091633be4b0b1416f516273
+  :zip: '94108'
+  :checkins: 384
+  :usersCount: 21
+  :tipCount: 0
+- :retailer: Choice Auto Rental
+  :id: 51167436e4b0d4246a733916
+  :zip: '55445'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Century 21 First Choice Realty
+  :id: 4ffdce40067d233ec3ab3f75
+  :zip: '74429'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Vital Choice
+  :id: 4f32983a19836c91c7e710ce
+  :zip: '44133'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First Choice Credit Union
+  :id: 4f636c8be4b0dc771f064722
+  :zip:
+  :checkins: 59
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: Choice Restaurant
+  :id: 4e5d205062e1c6c1590e36c3
+  :zip: '75063'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Trainer's Choice Vitamins
+  :id: 4c21167613c00f47246b85de
+  :zip: '70458'
+  :checkins: 27
+  :usersCount: 14
+  :tipCount: 2
+- :retailer: Royal Choice Insurance
+  :id: 55894f54498e5fa4138e90f8
+  :zip: '93241'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First Choice Dental Care
+  :id: 542597c8498e8475ffc5de40
+  :zip: '33763'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Booth Of Choice
+  :id: 5099ba37e4b0e388e330513e
+  :zip: '96744'
+  :checkins: 17
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Weapon Of Choice Studio/Rehearsal
+  :id: 5027fa5ce4b02a96b2c43359
+  :zip: '80231'
+  :checkins: 6
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Patients Choice Collective
+  :id: 4c9050db0b9e370416e6665e
+  :zip: '92705'
+  :checkins: 10
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Persian food wholesome choice
+  :id: 4cc4baa2b2beb1f7ddb51e4c
+  :zip:
+  :checkins: 104
+  :usersCount: 53
+  :tipCount: 1
+- :retailer: 1ST CHOICE
+  :id: 4d8944e0d85f37049922e4db
+  :zip: '62203'
+  :checkins: 16
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Choice Burgers
+  :id: 4c7474a11b30a093e8e2ec09
+  :zip: '91762'
+  :checkins: 15
+  :usersCount: 7
+  :tipCount: 1
+- :retailer: Healthy Choice
+  :id: 4da367fe0f578cfadb4eb818
+  :zip: '78380'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Kentucky Independent Choices
+  :id: 4b7d4544f964a520a7b52fe3
+  :zip: '40601'
+  :checkins: 3
+  :usersCount: 1
+  :tipCount: 1
+- :retailer: Always Your Best Choice Plumbing
+  :id: 537dcb85498ea8ae2ff00e69
+  :zip: '15108'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First choice physical therapy
+  :id: 4dc853cb6365e11a5afeaa39
+  :zip: '99654'
+  :checkins: 6
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Music Choice
+  :id: 523e4439498ebc38e275acea
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Executive Choice Courier
+  :id: 4e861b35e5fab0fb1152be42
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: HQ Sprint By Choice
+  :id: 4c55748f06901b8d150a814d
+  :zip: '55112'
+  :checkins: 77
+  :usersCount: 14
+  :tipCount: 0
+- :retailer: 1st Choice Home Remodeling
+  :id: 5726e9a7498e42f6f7401468
+  :zip: '43571'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: First Choice Personnel
+  :id: 55de28ac498ea755299dc1dc
+  :zip: '27105'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Concorde Hotels & Resorts Corporate Office
+  :id: 4c93981c533aa0933254b745
+  :zip: '10119'
+  :checkins: 547
+  :usersCount: 16
+  :tipCount: 1
+- :retailer: First Choice Emergency Room
+  :id: 4dfab03b52b145696e349b77
+  :zip: '75093'
+  :checkins: 41
+  :usersCount: 35
+  :tipCount: 1
+- :retailer: Ritz Transportation Hotel Shuttle
+  :id: 4da095cec41ca1434bcb4ca3
+  :zip: '89119'
+  :checkins: 56
+  :usersCount: 46
+  :tipCount: 1
+- :retailer: Vets First Choice at Nebraska Crossing
+  :id: 4c98b1176ffe8cfaa519ff2f
+  :zip: '68028'
+  :checkins: 23
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Niagara's Choice Credit Union
+  :id: 4db8425d6e81c67f61c9b675
+  :zip: '14120'
+  :checkins: 140
+  :usersCount: 27
+  :tipCount: 0
+- :retailer: Music Choice
+  :id: 4b758e78f964a520ed132ee3
+  :zip: '10001'
+  :checkins: 3515
+  :usersCount: 358
+  :tipCount: 8
+- :retailer: Hotel Salomar Pool
+  :id: 501d99a6e4b0c3028640c351
+  :zip: '92101'
+  :checkins: 47
+  :usersCount: 32
+  :tipCount: 1
+- :retailer: Pro's Choice Lotion, LLC
+  :id: 54d071c9498e866109b9dcb2
+  :zip: '46750'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: African Choice Food Market
+  :id: 54c006eb498e8680e5a34be6
+  :zip: '32818'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Casa de Bro Choice
+  :id: 4c27e00fed0ac9b68b745faa
+  :zip: '33611'
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Better Choice Homes
+  :id: 553eb9fa498e8a29cd32e886
+  :zip: '85295'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Hotel Santa Maria
+  :id: 504bfe5fe4b06b30219402fc
+  :zip:
+  :checkins: 23
+  :usersCount: 21
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4b0dd61ef964a5200d5123e3
+  :zip: '10710'
+  :checkins: 3333
+  :usersCount: 1606
+  :tipCount: 15
+- :retailer: Best Buy
+  :id: 4b365b4df964a520843325e3
+  :zip: '91324'
+  :checkins: 3665
+  :usersCount: 1553
+  :tipCount: 9
+- :retailer: Best Buy Mobile
+  :id: 4e724d972271d11692c3b200
+  :zip: '60712'
+  :checkins: 83
+  :usersCount: 52
+  :tipCount: 0
+- :retailer: Best Buy Mobile
+  :id: 4cb8d1b7d78f4688896cb273
+  :zip: '77546'
+  :checkins: 438
+  :usersCount: 86
+  :tipCount: 2
+- :retailer: Best Buys
+  :id: 4ed049cb5c5c9528f928dfb6
+  :zip: '19143'
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Best Buy Parking Lot
+  :id: 4f6141cce4b071dd73006982
+  :zip:
+  :checkins: 5
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Robert Buys Houses
+  :id: 5704bd12498efe5cd63c9e1e
+  :zip: '78227'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: The Best Tax Relief of SD
+  :id: 52644da611d280ad15194591
+  :zip: '92101'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Buy Mobile
+  :id: 4f08d4d8e4b026656eab8aae
+  :zip: '75062'
+  :checkins: 292
+  :usersCount: 36
+  :tipCount: 1
+- :retailer: MMJ Doctor - The Best medical marijuana 420 evaluations clinic in San
+    Francisco & San Jose
+  :id: 542df717498e75861ee5acda
+  :zip: '95113'
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Best Western Exercise Room
+  :id: 508b0f5ce4b032d8bde48ece
+  :zip: '78741'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Best Spot For Graffiti Pics In Town
+  :id: 4e4d959dd1640b04532d3d98
+  :zip:
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Best Western Hotel Jtb/Southpoint
+  :id: 4bd0f9b520cd996027992e9e
+  :zip: '32256'
+  :checkins: 1198
+  :usersCount: 422
+  :tipCount: 14
+- :retailer: The Best Un-exotic Marigold Hotel
+  :id: 53afc5ae498ee47d2a3ba988
+  :zip:
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Best Investment Auto Details
+  :id: 4e4d0cda6284776ee129af45
+  :zip:
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Best Parking Lot Ever
+  :id: 4ed80b7cb6344371f406f21b
+  :zip: '28202'
+  :checkins: 152
+  :usersCount: 53
+  :tipCount: 2
+- :retailer: Best Buy
+  :id: 4cb61a5b64998cfa7bd112a2
+  :zip: '76011'
+  :checkins: 10
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Best Communications Team in the World
+  :id: 4e033beeb0fb88a1209ca5bf
+  :zip: '48243'
+  :checkins: 17
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: What's Up Dig Best of the Best
+  :id: 51942b52498ea0d0f06db361
+  :zip:
+  :checkins: 30
+  :usersCount: 29
+  :tipCount: 2
+- :retailer: Memphis Best Burgerfest
+  :id: 50685fe1e4b0c318ab4b61d0
+  :zip: '38104'
+  :checkins: 39
+  :usersCount: 34
+  :tipCount: 0
+- :retailer: Seattle's Best Coffee
+  :id: 4d6d4d94cb7a8cfa56685d79
+  :zip: '98101'
+  :checkins: 29
+  :usersCount: 25
+  :tipCount: 1
+- :retailer: Best Buy (Park Meadows)
+  :id: 4efb88dbbe7bd31359a08f11
+  :zip: '80124'
+  :checkins: 8
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Best Buy Mobile
+  :id: 4c34bdd34308b7138c83c430
+  :zip: '20817'
+  :checkins: 301
+  :usersCount: 59
+  :tipCount: 2
+- :retailer: best buy mobile
+  :id: 53371847498ec8441df4d998
+  :zip:
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Best One Tire & Service
+  :id: 4e298c2762e17c3301a91f1c
+  :zip: '37210'
+  :checkins: 21
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Best Western Plus
+  :id: 4db242c10cb609fc091dd064
+  :zip: '21202'
+  :checkins: 530
+  :usersCount: 220
+  :tipCount: 7
+- :retailer: Buy For Less
+  :id: 5269893411d2f0ab6e3e885c
+  :zip: '73111'
+  :checkins: 7
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Best Western Green Tree Inn
+  :id: 4bc3f624dce4eee1ddd6719d
+  :zip: '47129'
+  :checkins: 372
+  :usersCount: 156
+  :tipCount: 2
+- :retailer: Best Friend
+  :id: 56244abf498ef8019cf6d08d
+  :zip: '97202'
+  :checkins: 14
+  :usersCount: 6
+  :tipCount: 2
+- :retailer: Best Buy Cars LV
+  :id: 5446b025498e5512d2eb0aa0
+  :zip: '89149'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Food & Meat Market
+  :id: 570ade8c498e61fc8678fe3f
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Best Image
+  :id: 4f1d8248e4b0288a0529b97b
+  :zip: '87105'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: America's Best Contacts & Eyeglasses
+  :id: 5171d89029a6f0144bdbbad7
+  :zip: '85705'
+  :checkins: 7
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Best Nails & Spa
+  :id: 4c2f8a9516adc928f6bdbd9c
+  :zip: '93704'
+  :checkins: 13
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Best Bookmarks
+  :id: 51c2963e501932fae18f2eac
+  :zip: '95822'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Buy Mobile
+  :id: 4adb7d0bf964a520192821e3
+  :zip: '91790'
+  :checkins: 4946
+  :usersCount: 1875
+  :tipCount: 14
+- :retailer: Best Roof Top Deck
+  :id: 4dbc6df8fa8cee72734d5d43
+  :zip: '64105'
+  :checkins: 15
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: best buy title services
+  :id: 51648ad2e4b0eba797d45e93
+  :zip: '85035'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: buy|trade|sell
+  :id: 52dc2d3c498e85aa51e9fe58
+  :zip:
+  :checkins: 9
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4b9d3021f964a520999736e3
+  :zip: '30273'
+  :checkins: 18
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Best Electric Service
+  :id: 571fb158498e1c2830d00f12
+  :zip: '80918'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Sled Hill In Papillion
+  :id: 4f2edd8be4b006ef9a9b0827
+  :zip: '68046'
+  :checkins: 153
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Best Tile
+  :id: 4c09672dffb8c9b671db6961
+  :zip: '27604'
+  :checkins: 45
+  :usersCount: 31
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4c059288d3842d7f8264be41
+  :zip:
+  :checkins: 24
+  :usersCount: 19
+  :tipCount: 0
+- :retailer: Best Detail Inc.
+  :id: 52bc8342498e63a57d620f9d
+  :zip: '94612'
+  :checkins: 6
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Hanson Hall l-102 Best Buy learning lab
+  :id: 512e5e20e4b0cbe0cd868863
+  :zip: '55454'
+  :checkins: 8
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Best Western
+  :id: 4bc3744edce4eee1a69c719d
+  :zip: '74135'
+  :checkins: 53
+  :usersCount: 24
+  :tipCount: 0
+- :retailer: We Buy Gold
+  :id: 4da8518ffa8c4175d0b63eec
+  :zip: '44104'
+  :checkins: 5
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Best Friends Pet Clinic
+  :id: 4e3073bd1fc7b9b213c59861
+  :zip: '67212'
+  :checkins: 5
+  :usersCount: 5
+  :tipCount: 1
+- :retailer: Best Buy Mobile
+  :id: 4b5a3f8ef964a52054b728e3
+  :zip: '76132'
+  :checkins: 124
+  :usersCount: 47
+  :tipCount: 0
+- :retailer: G L-f de Villiers, the Very Best in New Orleans Historic Tours
+  :id: 5317a92f11d2f9db3e941c3e
+  :zip: '70116'
+  :checkins: 21
+  :usersCount: 1
+  :tipCount: 1
+- :retailer: Seattle's Best  Café @ Borders
+  :id: 4c8c3f21ed3ab60c6c486621
+  :zip: '93309'
+  :checkins: 14
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Your Best Defense
+  :id: 512cf0b772da5ba0474d96ea
+  :zip: '33602'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Honolulus Best Coffee Co
+  :id: 4f32675719836c91c7d46eac
+  :zip: '96819'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: IBM Bldg 22 [Best Buy]
+  :id: 4dfb83e515201aaf4d9168bd
+  :zip: '80301'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4bd475547b1876b000078986
+  :zip: '91710'
+  :checkins: 133
+  :usersCount: 53
+  :tipCount: 1
+- :retailer: Best Buy Mobile
+  :id: 4adb7d0bf964a520192821e3
+  :zip: '91790'
+  :checkins: 4946
+  :usersCount: 1875
+  :tipCount: 14
+- :retailer: geek squad best buy
+  :id: 4f1f3a4de4b00491a5b62df9
+  :zip: '62048'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Best Food Pizza
+  :id: 4f32714a19836c91c7d84096
+  :zip: '92506'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Western Ocean Billa Pool
+  :id: 51f6f0b1498eb3a1527ccd92
+  :zip:
+  :checkins: 12
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Best Indoor Seats
+  :id: 4e297a5152b1c37d35cc3dc5
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Best Restaurants Party
+  :id: 4ded6d12e4cd032b188b7ec6
+  :zip: '15219'
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Best Water Ever!
+  :id: 4c154df8b7b9c92873c2ac37
+  :zip:
+  :checkins: 92
+  :usersCount: 47
+  :tipCount: 1
+- :retailer: American Best Value Inn - Stockton
+  :id: 50adf16ce4b0b42d0dbe58b5
+  :zip: '95215'
+  :checkins: 5
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Best Western Premier Mariemont Inn
+  :id: 4b61f632f964a520c42d2ae3
+  :zip: '45227'
+  :checkins: 1461
+  :usersCount: 188
+  :tipCount: 5
+- :retailer: Best Buy Omni Channel Experience - Bldg C/Floor 5
+  :id: 4dfb78787d8b56d8ae43d581
+  :zip: '55423'
+  :checkins: 1109
+  :usersCount: 35
+  :tipCount: 0
+- :retailer: Buying new jeans so Tina doesn't beat me
+  :id: 4e9c932f5c5ce9b983bfcb0b
+  :zip: '43614'
+  :checkins: 5
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Best Idea Ever
+  :id: 4e300b3afa7614797de8f36d
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4c250434b7b8a593907c3de8
+  :zip: '7457'
+  :checkins: 4402
+  :usersCount: 1077
+  :tipCount: 12
+- :retailer: Best Buy
+  :id: 4cc772d13477b60c411c766a
+  :zip: '75211'
+  :checkins: 1338
+  :usersCount: 486
+  :tipCount: 3
+- :retailer: Luxor - Best Buy Express (Lobby)
+  :id: 5008bf06e4b0dea107e73bc0
+  :zip: '89109'
+  :checkins: 10
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Syracuse Do it Best Hardware
+  :id: 4e303bbab61c88c3a7a0407e
+  :zip: '68446'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Best of Health
+  :id: 4d55a26416a6b60c27434df8
+  :zip: '14217'
+  :checkins: 18
+  :usersCount: 9
+  :tipCount: 2
+- :retailer: Best Buy
+  :id: 4aae5feaf964a520ec6120e3
+  :zip: '10530'
+  :checkins: 3184
+  :usersCount: 1312
+  :tipCount: 23
+- :retailer: Best Choice Inn Chula Vista
+  :id: 4bccbfaa0245eee10f4b25b9
+  :zip: '91910'
+  :checkins: 3
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Do it Best Second Floor Break Room
+  :id: 4f2bddf5e4b0167576e66575
+  :zip: '46803'
+  :checkins: 7
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Best Buy Women's Leadership Breakfast
+  :id: 50755823e4b09d7d826e5bc0
+  :zip: '32819'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Best AV
+  :id: 4cb07afbcbab236a338fa073
+  :zip: '33712'
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Best Buy
+  :id: 4deecac7ae609ae4fa39eb60
+  :zip: '85383'
+  :checkins: 9
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Texas Best Roofing Company
+  :id: 56aeea3d498efacbeca9509d
+  :zip: '78045'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Macy's Parade & Entertainment Group
+  :id: 4bb5f3fa2f70c9b632ac8430
+  :zip: '10001'
+  :checkins: 476
+  :usersCount: 343
+  :tipCount: 1
+- :retailer: Macy's
+  :id: 4b4fbce1f964a520511327e3
+  :zip: '92683'
+  :checkins: 2818
+  :usersCount: 1175
+  :tipCount: 6
+- :retailer: Estee Lauder - Macy's
+  :id: 4d824c596282721ef7e5ef4d
+  :zip: '60602'
+  :checkins: 31
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75916
+  :zip: '77502'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Macy's Furniture Store
+  :id: 50fafde9e4b04f855186e8c6
+  :zip: 08002
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f1b3f11d2b087f3c1f95d
+  :zip: '85308'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: SHOE DEPT.
+  :id: 4cf05ad1899c6ea8e52deac1
+  :zip: '78247'
+  :checkins: 136
+  :usersCount: 57
+  :tipCount: 1
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f06d2498e943427614a03
+  :zip: '92025'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Macy's District Office
+  :id: 4d90a3785091a1cde985bf01
+  :zip: '75093'
+  :checkins: 28
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f23ee11d2efaf577c244f
+  :zip: '95123'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Sunglass Hut
+  :id: 4e9c99a27ed1753a26a7525b
+  :zip: '78613'
+  :checkins: 57
+  :usersCount: 21
+  :tipCount: 1
+- &1
+  :retailer: Sunglass Hut
+  :id: 4d8627c402eb5481c6f351f5
+  :zip: '46143'
+  :checkins: 266
+  :usersCount: 45
+  :tipCount: 4
+- *1
+- :retailer: Macy's Lingerie Department
+  :id: 4d8d5cc6ca75b60c10a9e7a8
+  :zip: '94102'
+  :checkins: 58
+  :usersCount: 45
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75a2b
+  :zip: '43240'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522ef04311d2afe04167c486
+  :zip: '28134'
+  :checkins: 4
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522efbaf11d2f0b083ddd117
+  :zip: '75225'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a37ed1753a26a75416
+  :zip: '48083'
+  :checkins: 5
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Clinique Counter @ Macy's - Sunland Park Mall
+  :id: 51aa37ef498e5f0f6b66a3bc
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4c54981272cf0f4702f4ccd4
+  :zip: '38017'
+  :checkins: 61
+  :usersCount: 39
+  :tipCount: 0
+- :retailer: Macy's Dist
+  :id: 4e65d005b993678bb810710c
+  :zip:
+  :checkins: 59
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e333b2d1495fa2def515395
+  :zip: '80123'
+  :checkins: 76
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a77ed1753a26a75bc7
+  :zip: '22203'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 1
+- :retailer: Macy's Furniture
+  :id: 5252d4b611d254ca4753cc4e
+  :zip:
+  :checkins: 11
+  :usersCount: 10
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f12f811d2db123c1a6759
+  :zip: '37067'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a77ed1753a26a75c2e
+  :zip: '20782'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f21d911d2400d52270124
+  :zip: '73118'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75998
+  :zip: '40219'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f1efb498eda6f352ddd54
+  :zip: '98662'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 546c352b498e1597e8264ef2
+  :zip: '89135'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Coach Counter
+  :id: 4d0bd47b984a6ea816b79364
+  :zip: '53226'
+  :checkins: 22
+  :usersCount: 11
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a77ed1753a26a75af4
+  :zip: '87114'
+  :checkins: 10
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75abe
+  :zip: '85705'
+  :checkins: 11
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a77ed1753a26a75b18
+  :zip: '93720'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522ec7bc11d2273d3bcd32f6
+  :zip: '95678'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Macys Merchandising Group (MMG)
+  :id: 4df69503d1642d7385a42d28
+  :zip: '90745'
+  :checkins: 40
+  :usersCount: 5
+  :tipCount: 2
+- :retailer: Starbucks
+  :id: 4d0b9808f608721e6aae3c0f
+  :zip: '64064'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Clinique @ Macy's
+  :id: 4cc7926ccaa5a1cd95ae98e7
+  :zip: '85308'
+  :checkins: 48
+  :usersCount: 25
+  :tipCount: 0
+- :retailer: Macy's Executive Office
+  :id: 4e2d8f33c65bcaf4004414f0
+  :zip: '23666'
+  :checkins: 37
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: macys polo shop
+  :id: 563fd567498e52bc1101124d
+  :zip:
+  :checkins: 5
+  :usersCount: 1
+  :tipCount: 0
+- &2
+  :retailer: Sunglass Hut at Macy's
+  :id: 4c0e9039c6cf76b0c8ef8051
+  :zip: '80920'
+  :checkins: 14
+  :usersCount: 13
+  :tipCount: 1
+- *2
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75974
+  :zip: '27701'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: City Parking Near Macys On Lincoln Rd.
+  :id: 4eaf439129c289c2f0fae133
+  :zip:
+  :checkins: 12
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Macys.com Marketing
+  :id: 4ed929ae7ee506bd2a5266de
+  :zip: '94103'
+  :checkins: 264
+  :usersCount: 52
+  :tipCount: 0
+- :retailer: Fruigurt - Macy's
+  :id: 4c716c833444370475de265f
+  :zip: '55402'
+  :checkins: 31
+  :usersCount: 22
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75950
+  :zip: '74133'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- &3
+  :retailer: Sunglass Hut at Macy's
+  :id: 522eee0b11d2b8e6fa2e7f80
+  :zip: '44224'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- *3
+- :retailer: Sunglass Hut at Macy's
+  :id: 522ef1d711d249783d68b736
+  :zip: '75240'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a759eb
+  :zip: '70065'
+  :checkins: 5
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Lancome "Macys"
+  :id: 4f2dbb69e4b01982f1544eb4
+  :zip: '93304'
+  :checkins: 8
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a37ed1753a26a753d7
+  :zip: '33710'
+  :checkins: 12
+  :usersCount: 12
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a77ed1753a26a75add
+  :zip: '96744'
+  :checkins: 10
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e333b2d1495fa2def515395
+  :zip: '80123'
+  :checkins: 76
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Macy's home store
+  :id: 50284f0ee4b030d4ed85ff92
+  :zip: '90241'
+  :checkins: 48
+  :usersCount: 33
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's - Mens
+  :id: 56252c83498eeeb7d0f0f13d
+  :zip: '92821'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a87ed1753a26a75cb7
+  :zip: '62002'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 56252c7f498ef2befa5ce055
+  :zip: '92691'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Macy's Estee Lauder
+  :id: 50f6f5bde4b0766260991564
+  :zip: '78411'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut
+  :id: 4e9c99a27ed1753a26a7532c
+  :zip: '40503'
+  :checkins: 111
+  :usersCount: 21
+  :tipCount: 0
+- &4
+  :retailer: Sunglass Hut at Macy's
+  :id: 522f26f711d2613f54b8cc64
+  :zip: '15146'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- *4
+- :retailer: Estee Lauder @ Macys
+  :id: 4e5d2eabfa76a4cf148fcf73
+  :zip:
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: MAS Macy's Office
+  :id: 4ecfd15602d5feaa1b8b3d08
+  :zip: '45069'
+  :checkins: 4
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Macy's Food Court
+  :id: 4b980a88f964a520352835e3
+  :zip: '55402'
+  :checkins: 814
+  :usersCount: 298
+  :tipCount: 5
+- :retailer: BCBG MAX AZRIA
+  :id: 4e3ff6cdbd41de7836481e58
+  :zip: '43623'
+  :checkins: 8
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Dynamic Macy's
+  :id: 5534122f498ea18b3cb61f4f
+  :zip: '27260'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Nespresso Boutique at Macy's
+  :id: 5342f14d498ea9302112c072
+  :zip: '10001'
+  :checkins: 64
+  :usersCount: 53
+  :tipCount: 0
+- :retailer: 'MACYS #666 GALLERIA'
+  :id: 4f59ed55e4b04e4607e6d92d
+  :zip: '75240'
+  :checkins: 25
+  :usersCount: 21
+  :tipCount: 1
+- &5
+  :retailer: Sunglass Hut at Macy's
+  :id: 546c352b498e1597e8264ef2
+  :zip: '89135'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- *5
+- :retailer: Macys Loss Prevention Office
+  :id: 4ded13ad45dd64cbbd13ffc0
+  :zip: '14221'
+  :checkins: 8
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Macy's Flower Show 2016
+  :id: 56f00e41498e8a77e16c2cee
+  :zip:
+  :checkins: 54
+  :usersCount: 48
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f06d2498e943427614a03
+  :zip: '92025'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: SGH in Macy's
+  :id: 502c4d85e4b0c17c80b7b12a
+  :zip: '46805'
+  :checkins: 94
+  :usersCount: 10
+  :tipCount: 1
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a37ed1753a26a753cf
+  :zip: '32771'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Clinique @ Macy's Brandon
+  :id: 509d3d21011cf1cb40d4e51c
+  :zip: '33511'
+  :checkins: 9
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 522f1b3f11d2b087f3c1f95d
+  :zip: '85308'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Sunglass Hut at Macy's
+  :id: 4e9c99a67ed1753a26a75939
+  :zip: '78041'
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Walmart
+  :id: 4bd4577fcaff9521fd7dd6f0
+  :zip: '11553'
+  :checkins: 3866
+  :usersCount: 942
+  :tipCount: 14
+- :retailer: Walmart Supercenter
+  :id: 4b475e8ef964a5200b3026e3
+  :zip: '91350'
+  :checkins: 8528
+  :usersCount: 1873
+  :tipCount: 28
+- :retailer: Walmart Supercenter
+  :id: 4b5e1e76f964a520b87e29e3
+  :zip: '60107'
+  :checkins: 6431
+  :usersCount: 1430
+  :tipCount: 22
+- :retailer: Walmart Supercenter
+  :id: 4babf294f964a52015d83ae3
+  :zip: '77338'
+  :checkins: 3854
+  :usersCount: 1107
+  :tipCount: 13
+- :retailer: Walmart
+  :id: 4b4a0ca8f964a520007926e3
+  :zip: '19341'
+  :checkins: 4775
+  :usersCount: 1318
+  :tipCount: 11
+- :retailer: Walmart Supercenter
+  :id: 4af5be6ef964a52036fc21e3
+  :zip: '85209'
+  :checkins: 7888
+  :usersCount: 1526
+  :tipCount: 17
+- :retailer: Walmart Neighborhood Market
+  :id: 54b7bff3498e038d07a7b4a0
+  :zip: '78217'
+  :checkins: 39
+  :usersCount: 26
+  :tipCount: 0
+- :retailer: McDonald's (Walmart)
+  :id: 4f538a06e4b07de37cbe404d
+  :zip: '91911'
+  :checkins: 276
+  :usersCount: 57
+  :tipCount: 1
+- :retailer: Walmart Supercenter
+  :id: 4eb1aa57f790c3b572580167
+  :zip: '75237'
+  :checkins: 2713
+  :usersCount: 730
+  :tipCount: 24
+- :retailer: Walmart Photo Center
+  :id: 53129c97498e9667de22f0db
+  :zip:
+  :checkins: 5
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Bus Stop 5240 - Ben White & IH-35 (Walmart)
+  :id: 557da77f498ea148511d0442
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1114498e6d869617e86c
+  :zip: '46953'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Distribution
+  :id: 4e29af248877f9158a81f655
+  :zip: '32063'
+  :checkins: 453
+  :usersCount: 137
+  :tipCount: 4
+- :retailer: Walmart.com Training Lab
+  :id: 4fd632eee4b0dde4974929be
+  :zip: '94066'
+  :checkins: 43
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c111a498e6d8696187883
+  :zip: '43228'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 56941bc338fa877d7641b7fd
+  :zip: '28226'
+  :checkins: 110
+  :usersCount: 39
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 4ccb275c7c2ff04d4ab2907e
+  :zip: '76126'
+  :checkins: 2792
+  :usersCount: 571
+  :tipCount: 10
+- :retailer: Walmart Tire & Lube
+  :id: 4bc0795b4cdfc9b618df9221
+  :zip:
+  :checkins: 11
+  :usersCount: 4
+  :tipCount: 1
+- :retailer: Walmart
+  :id: 4fa873dee4b0653e48fd3b8f
+  :zip: '79912'
+  :checkins: 32
+  :usersCount: 27
+  :tipCount: 0
+- :retailer: Linc Walmart Distribution Center
+  :id: 4eb9fed38231d54a3d69e9f2
+  :zip: '38111'
+  :checkins: 63
+  :usersCount: 37
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c111a498e6d8696187d66
+  :zip: '98370'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 53fb49bf498e43f6429e9abb
+  :zip: '80227'
+  :checkins: 221
+  :usersCount: 31
+  :tipCount: 0
+- :retailer: Wal-Mart Federal Government Relations
+  :id: 4babb477f964a52024c23ae3
+  :zip: '20001'
+  :checkins: 60
+  :usersCount: 25
+  :tipCount: 0
+- :retailer: Redbox
+  :id: 4e31c4302fb6ede816e36956
+  :zip: 01905
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1119498e6d86961859df
+  :zip: '37211'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1116498e6d86961825f4
+  :zip: '21222'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 54dfbf18498e2dc6fafe1a76
+  :zip: '73099'
+  :checkins: 109
+  :usersCount: 16
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1118498e6d8696185741
+  :zip: '40216'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 56ab9e5c498e877ac145c735
+  :zip: '98661'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Vision Center
+  :id: 4e4d9096c65bd9212a28c9e2
+  :zip: '89032'
+  :checkins: 10
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1117498e6d8696183541
+  :zip: '53215'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 55c8ebf7498e3ed1a2de226b
+  :zip: '87111'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Tire and Lube
+  :id: 545ac7b3498e105c4e020113
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1115498e6d86961806bb
+  :zip: '93662'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1117498e6d8696182b43
+  :zip: '95834'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 509a6cc4e4b03a271c6ff9a1
+  :zip: '90242'
+  :checkins: 618
+  :usersCount: 149
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 4bd4c520cfa7b7133fd524da
+  :zip: '64075'
+  :checkins: 1981
+  :usersCount: 403
+  :tipCount: 6
+- :retailer: Walmart Neighborhood Market
+  :id: 4c0462219a7920a19b42d179
+  :zip: '85213'
+  :checkins: 1223
+  :usersCount: 267
+  :tipCount: 3
+- :retailer: walmart neighborhood market
+  :id: 541827df498ee3c9343b6f15
+  :zip:
+  :checkins: 18
+  :usersCount: 12
+  :tipCount: 1
+- :retailer: Walmart Supercenter
+  :id: 4b7b22c2f964a5208b532fe3
+  :zip: '30134'
+  :checkins: 8025
+  :usersCount: 1605
+  :tipCount: 13
+- :retailer: Walmart parking lot
+  :id: 5361cbb9498e09c25421ad28
+  :zip:
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1115498e6d869617f7d4
+  :zip: '68134'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1114498e6d869617eacc
+  :zip: '27603'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 54b18728498e6908e783d186
+  :zip: '33055'
+  :checkins: 94
+  :usersCount: 27
+  :tipCount: 2
+- :retailer: Redbox
+  :id: 4e31c42f2fb6ede816e35911
+  :zip: '94621'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart
+  :id: 4de81a2845dde4a28d4808e8
+  :zip:
+  :checkins: 8
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Redbox (Inside WalMart)
+  :id: 504bcad2e4b05ebf6d966b6e
+  :zip: '74127'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: SUBWAY
+  :id: 4e1616ec483b0d8571d75989
+  :zip: '44129'
+  :checkins: 97
+  :usersCount: 40
+  :tipCount: 0
+- :retailer: Walmart Automotive
+  :id: 54f9a4ef498ecca27d52f307
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 4ad2504af964a520dae020e3
+  :zip: '75077'
+  :checkins: 9939
+  :usersCount: 1643
+  :tipCount: 20
+- :retailer: Redbox
+  :id: 4e31c42f2fb6ede816e35ae2
+  :zip: '70130'
+  :checkins: 11
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 568c3318498e52c0de66db92
+  :zip: '93280'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 53f4cfb7498e823da519dd8d
+  :zip: '33624'
+  :checkins: 80
+  :usersCount: 35
+  :tipCount: 3
+- :retailer: MoneyGram (in WAL-MART)
+  :id: 51c9e984498e038a447d0dce
+  :zip: 96789-1783
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 4fa98dd3e4b0560131679866
+  :zip: '80123'
+  :checkins: 1199
+  :usersCount: 264
+  :tipCount: 2
+- :retailer: Walmart Neighborhood Market
+  :id: 505bbdcbe4b038a3e3a8365d
+  :zip: '92801'
+  :checkins: 355
+  :usersCount: 92
+  :tipCount: 2
+- :retailer: Walmart Neighborhood Market
+  :id: 50463440e4b0cf6062387fda
+  :zip: '92805'
+  :checkins: 720
+  :usersCount: 305
+  :tipCount: 4
+- :retailer: Walmart
+  :id: 4ed6ce420e0189600a7bc4f2
+  :zip: '63138'
+  :checkins: 6
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 559dbb97498ee47a25337eeb
+  :zip: '91765'
+  :checkins: 169
+  :usersCount: 67
+  :tipCount: 0
+- :retailer: Redbox
+  :id: 4e31c42f2fb6ede816e35539
+  :zip: '78336'
+  :checkins: 13
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1113498e6d869617c466
+  :zip: '40324'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 4f7e390ee4b0878749893833
+  :zip: '15108'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Redbox
+  :id: 4e31c4302fb6ede816e3950c
+  :zip: '99654'
+  :checkins: 5
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 52c3683811d2008be0c2bb47
+  :zip: '95356'
+  :checkins: 6
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1119498e6d8696185aa5
+  :zip: '45241'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 4b6eef2cf964a520d8d12ce3
+  :zip: '54017'
+  :checkins: 2223
+  :usersCount: 397
+  :tipCount: 7
+- :retailer: SUBWAY
+  :id: 4e4deff3bd41b76bef95a090
+  :zip: '43402'
+  :checkins: 125
+  :usersCount: 42
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1115498e6d869617f1c1
+  :zip: '27410'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart
+  :id: 56ab91e0498e0fa654b4a3c4
+  :zip: '07036'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Supercenter
+  :id: 4b09b550f964a520211c23e3
+  :zip: '75071'
+  :checkins: 5439
+  :usersCount: 1098
+  :tipCount: 12
+- :retailer: Walmart Pharmacy
+  :id: 551c1117498e6d86961835c9
+  :zip: '89014'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Redbox
+  :id: 4e31c42f2fb6ede816e3580b
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Pharmacy
+  :id: 551c1119498e6d86961869e5
+  :zip: '14120'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Walmart Headquarters NYC
+  :id: 4a8f0364f964a520911320e3
+  :zip: '10018'
+  :checkins: 313
+  :usersCount: 42
+  :tipCount: 1
+- :retailer: Walmart
+  :id: 51461808e4b0b3bbae008d0e
+  :zip:
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: walmart tle
+  :id: 4f0b4233e4b0e8ed3a65995f
+  :zip: '46750'
+  :checkins: 23
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Walmart Neighborhood Market
+  :id: 4b588559f964a520de5b28e3
+  :zip: '32825'
+  :checkins: 3851
+  :usersCount: 839
+  :tipCount: 13
+- :retailer: Walmart Supercenter
+  :id: 4b58c98cf964a520306b28e3
+  :zip: '34221'
+  :checkins: 4585
+  :usersCount: 915
+  :tipCount: 12
+- :retailer: Walmart Neighborhood Market
+  :id: 4bb7ab947421a59338dac040
+  :zip: '85203'
+  :checkins: 2285
+  :usersCount: 321
+  :tipCount: 4
+- :retailer: TBM/Wal Mart Drop Yard Laredo
+  :id: 4e8d13a2b80344c565068931
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Target
+  :id: 4ae8b742f964a520a5b121e3
+  :zip: '07066'
+  :checkins: 11861
+  :usersCount: 2360
+  :tipCount: 21
+- :retailer: Target
+  :id: 4b4fa265f964a520800e27e3
+  :zip: '90745'
+  :checkins: 8754
+  :usersCount: 1793
+  :tipCount: 6
+- :retailer: Target
+  :id: 4b5f939cf964a5208fc229e3
+  :zip: '60525'
+  :checkins: 5533
+  :usersCount: 1549
+  :tipCount: 6
+- :retailer: SuperTarget
+  :id: 4b42a789f964a52053d825e3
+  :zip: '77479'
+  :checkins: 9337
+  :usersCount: 2316
+  :tipCount: 11
+- :retailer: Target
+  :id: 4af04d1ff964a5201ddb21e3
+  :zip: '19341'
+  :checkins: 5785
+  :usersCount: 1544
+  :tipCount: 6
+- :retailer: Target FDC T3893
+  :id: 4cb5ffad1b0af04d7171cd25
+  :zip: '85043'
+  :checkins: 1112
+  :usersCount: 42
+  :tipCount: 1
+- :retailer: target snack shop
+  :id: 539f8b70498e1bf851e34bb2
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Target Pharmacy
+  :id: 517ae070498e7ee297026a69
+  :zip:
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 2
+- :retailer: Target
+  :id: 4ae4bf48f964a520bd9d21e3
+  :zip: '76120'
+  :checkins: 4191
+  :usersCount: 1208
+  :tipCount: 14
+- :retailer: Target
+  :id: 4b4a2864f964a520c17c26e3
+  :zip: '95076'
+  :checkins: 3733
+  :usersCount: 655
+  :tipCount: 7
+- :retailer: Starbucks
+  :id: 4ce3ee95bebd3704a4f9a2a0
+  :zip: '78759'
+  :checkins: 606
+  :usersCount: 369
+  :tipCount: 4
+- :retailer: Target Distribution Center
+  :id: 4bed9f26e3562d7fa24cfff8
+  :zip: '46231'
+  :checkins: 344
+  :usersCount: 112
+  :tipCount: 2
+- :retailer: Starbucks In Target
+  :id: 50cbc20be4b0a73ccdcf78ba
+  :zip: '32003'
+  :checkins: 62
+  :usersCount: 24
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 431e2d80f964a5207c271fe3
+  :zip: '94103'
+  :checkins: 21619
+  :usersCount: 10090
+  :tipCount: 98
+- :retailer: Starbucks
+  :id: 4b3d05e5f964a520228c25e3
+  :zip: '43068'
+  :checkins: 3714
+  :usersCount: 638
+  :tipCount: 9
+- :retailer: The Targeted Group Headquarters
+  :id: 4ba21d95f964a520cfdc37e3
+  :zip: '28203'
+  :checkins: 10
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Target Optical
+  :id: 51c35bb4498e31f211121922
+  :zip: '76182'
+  :checkins: 26
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Target Sports Gun Shop and Shooting Range
+  :id: 4b5243b4f964a520a17327e3
+  :zip: '48073'
+  :checkins: 967
+  :usersCount: 556
+  :tipCount: 6
+- :retailer: Starbucks
+  :id: 4d0eb12b3e306dcb643ca989
+  :zip: '79936'
+  :checkins: 511
+  :usersCount: 166
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4eed043faa1f98ce65440a4b
+  :zip: '38017'
+  :checkins: 191
+  :usersCount: 66
+  :tipCount: 0
+- :retailer: Property Target
+  :id: 50c63169f1368727ca8a6a60
+  :zip: '98103'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Target
+  :id: 507c6234f1bae4f4c27b0796
+  :zip: '80016'
+  :checkins: 2981
+  :usersCount: 728
+  :tipCount: 10
+- :retailer: Target To-Go DC
+  :id: 4b214dddf964a520e43924e3
+  :zip:
+  :checkins: 12
+  :usersCount: 8
+  :tipCount: 1
+- :retailer: Target Pizza
+  :id: 4b638b78f964a5205c822ae3
+  :zip: '02132'
+  :checkins: 45
+  :usersCount: 37
+  :tipCount: 3
+- :retailer: Pizza Hut
+  :id: 4e6e3607e4cd7236efcaa02b
+  :zip: '37075'
+  :checkins: 4
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: MTA Maryland 30 Bus
+  :id: 4cbe4052ee00952129eefb24
+  :zip:
+  :checkins: 210
+  :usersCount: 33
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4c992df078fc236a11bb2a97
+  :zip: '73069'
+  :checkins: 438
+  :usersCount: 217
+  :tipCount: 2
+- :retailer: Starbucks
+  :id: 4fc94580d4f24895b4467da7
+  :zip: '40243'
+  :checkins: 282
+  :usersCount: 119
+  :tipCount: 1
+- :retailer: Quick Shoot Target Holder
+  :id: 56b85264498e33f2f5a51521
+  :zip: '97045'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Target
+  :id: 4da495392939b1f769bc3557
+  :zip: '89144'
+  :checkins: 35
+  :usersCount: 16
+  :tipCount: 0
+- :retailer: Target Parking Lot
+  :id: 5159ed48e4b05e07e7544aa7
+  :zip:
+  :checkins: 387
+  :usersCount: 30
+  :tipCount: 1
+- :retailer: Pizza Hut
+  :id: 4c4dcdaff53d0f478d3c98a5
+  :zip: '87121'
+  :checkins: 86
+  :usersCount: 63
+  :tipCount: 2
+- :retailer: Target.com
+  :id: 4df3c5d818386ecb4e31ba94
+  :zip:
+  :checkins: 123
+  :usersCount: 25
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4cec4f91f368b1f7d79274f7
+  :zip: '93720'
+  :checkins: 113
+  :usersCount: 70
+  :tipCount: 0
+- :retailer: Starbucks, Target
+  :id: 4be4a26c910020a1ff03d214
+  :zip: '95822'
+  :checkins: 7
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Target
+  :id: 4a5f76fbf964a5209ebf1fe3
+  :zip: '92782'
+  :checkins: 13507
+  :usersCount: 3991
+  :tipCount: 14
+- :retailer: Target
+  :id: 4cef380a4cd4236a027fb163
+  :zip:
+  :checkins: 9
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: target food court
+  :id: 52bc7934498ed4f7884da92b
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4fc94580d4f24895b4467d61
+  :zip: '23666'
+  :checkins: 380
+  :usersCount: 232
+  :tipCount: 3
+- :retailer: Soul Cycle Target Pop Up
+  :id: 56acc7d6498e83964d3ca0a1
+  :zip:
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Starbucks Inside Target
+  :id: 5238ab9111d2f99e58f7d016
+  :zip:
+  :checkins: 8
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Target Mobile
+  :id: 4d3c6cde6b3d236a6bed6064
+  :zip: '68130'
+  :checkins: 38
+  :usersCount: 21
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4b81af42f964a520b8b730e3
+  :zip: '27560'
+  :checkins: 7035
+  :usersCount: 1163
+  :tipCount: 15
+- :retailer: Target Optical
+  :id: 55086f1b498eb65797bd3367
+  :zip: '33156'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Target Express
+  :id: 54f893e4498e0b4fd10d391f
+  :zip: '94704'
+  :checkins: 351
+  :usersCount: 175
+  :tipCount: 2
+- :retailer: Target
+  :id: 4a159159f964a5209c781fe3
+  :zip: '55126'
+  :checkins: 11152
+  :usersCount: 2305
+  :tipCount: 20
+- :retailer: Starbucks
+  :id: 4fc94580d4f24895b4467d13
+  :zip: '74012'
+  :checkins: 443
+  :usersCount: 187
+  :tipCount: 1
+- :retailer: Target Portrait Studio
+  :id: 4e4fd5d46284416669937d1d
+  :zip: '44124'
+  :checkins: 88
+  :usersCount: 9
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4bb4b020613fb7138c0894e6
+  :zip: '67037'
+  :checkins: 259
+  :usersCount: 110
+  :tipCount: 5
+- :retailer: SuperTarget
+  :id: 4b3166cff964a5203b0625e3
+  :zip: '76107'
+  :checkins: 12657
+  :usersCount: 2575
+  :tipCount: 21
+- :retailer: Work -Target
+  :id: 5576da0f498ef59c10a7e92f
+  :zip:
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4bddd6ae6198c9b6d6e111ff
+  :zip: '93311'
+  :checkins: 279
+  :usersCount: 141
+  :tipCount: 1
+- :retailer: Target Food Court
+  :id: 51f3dbc3498e8c17dcf068a5
+  :zip:
+  :checkins: 7
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4c8aedf352a98cfa309a31e9
+  :zip: '96707'
+  :checkins: 1150
+  :usersCount: 397
+  :tipCount: 4
+- :retailer: Target
+  :id: 4d1cbb868860a09344b2bd34
+  :zip:
+  :checkins: 53
+  :usersCount: 30
+  :tipCount: 0
+- :retailer: Target
+  :id: 4aa85d0df964a520005120e3
+  :zip: '90740'
+  :checkins: 7783
+  :usersCount: 2080
+  :tipCount: 11
+- :retailer: Target
+  :id: 4afe430af964a520012f22e3
+  :zip: '90505'
+  :checkins: 12863
+  :usersCount: 3232
+  :tipCount: 20
+- :retailer: Target
+  :id: 503ece11e4b0052cdc6b3e52
+  :zip: '63031'
+  :checkins: 8
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Target
+  :id: 4bd4bfe8637ba593a762f570
+  :zip: '91791'
+  :checkins: 8355
+  :usersCount: 2674
+  :tipCount: 22
+- :retailer: Pizza Hut
+  :id: 4b720a1df964a520996b2de3
+  :zip: '78411'
+  :checkins: 301
+  :usersCount: 156
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 51e44584498e98d9d4825e6b
+  :zip: '40509'
+  :checkins: 31
+  :usersCount: 29
+  :tipCount: 0
+- :retailer: Target
+  :id: 4d7d342b79c4b1f7e52c09f3
+  :zip: '15137'
+  :checkins: 10
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Target Pharmacy
+  :id: 4fea7273e4b085d0e06263fd
+  :zip: '99654'
+  :checkins: 13
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Target Toys
+  :id: 4ff3a860e4b054fba8f3b41a
+  :zip: '95330'
+  :checkins: 2
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Target World
+  :id: 4b4c2562f964a520d0ae26e3
+  :zip: '45241'
+  :checkins: 1266
+  :usersCount: 723
+  :tipCount: 15
+- :retailer: Target
+  :id: 4b571630f964a520e12528e3
+  :zip: '55124'
+  :checkins: 13091
+  :usersCount: 2420
+  :tipCount: 26
+- :retailer: Target
+  :id: 4db1e92c4b22ba776d8e2c27
+  :zip: '48131'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: I-40 / I-85 Exit 147
+  :id: 4c1d4cc7fcf8c9b61593ab0b
+  :zip: '27253'
+  :checkins: 8231
+  :usersCount: 2477
+  :tipCount: 2
+- :retailer: Target
+  :id: 4b6d57f4f964a520f6712ce3
+  :zip: '10451'
+  :checkins: 9308
+  :usersCount: 3059
+  :tipCount: 34
+- :retailer: Super Target
+  :id: 4b0af9d8f964a520f72a23e3
+  :zip: '75081'
+  :checkins: 8046
+  :usersCount: 1536
+  :tipCount: 32
+- :retailer: On Target Guns
+  :id: 50e8b154e4b0a168af5e9127
+  :zip: '89110'
+  :checkins: 14
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: super target
+  :id: 4fc1026fe4b085850010826b
+  :zip: '68360'
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Target Digital Marketing
+  :id: 55676e22498e8c0dfb21717e
+  :zip: L2P 1L8
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Target
+  :id: 4b6ee9a3f964a520a2d02ce3
+  :zip: 07866
+  :checkins: 13983
+  :usersCount: 3081
+  :tipCount: 8
+- :retailer: Target District 231 Office
+  :id: 4fa2d208e4b065011b5808f9
+  :zip: '92111'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Starbucks at Target
+  :id: 504a852fe4b062c863098cc3
+  :zip: '46815'
+  :checkins: 8
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Target Optical
+  :id: 55f1d34c498eeff462df6d95
+  :zip: '32765'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Cox Target Media Digital Solutions
+  :id: 4f294043e4b0817afcf0b32e
+  :zip: '33773'
+  :checkins: 191
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Target Cafe
+  :id: 50c3ad4ee4b0fe852db5b747
+  :zip: '85296'
+  :checkins: 6
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Target Pest Control
+  :id: 571ffc67498ee9a755ce728c
+  :zip: '78046'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b06b31cf964a520c6ee22e3
+  :zip: 07069
+  :checkins: 4116
+  :usersCount: 1244
+  :tipCount: 5
+- :retailer: The Home Depot
+  :id: 4b2d1318f964a520c1cd24e3
+  :zip: '91748'
+  :checkins: 2694
+  :usersCount: 901
+  :tipCount: 4
+- :retailer: The Home Depot
+  :id: 4bc20199920eb71395701b2c
+  :zip: '60164'
+  :checkins: 1434
+  :usersCount: 595
+  :tipCount: 3
+- :retailer: The Home Depot
+  :id: 4b8aaf0bf964a520947932e3
+  :zip: '77065'
+  :checkins: 1317
+  :usersCount: 524
+  :tipCount: 2
+- :retailer: The Home Depot
+  :id: 4b71fad0f964a52019682de3
+  :zip: 08051
+  :checkins: 2310
+  :usersCount: 569
+  :tipCount: 5
+- :retailer: The Home Depot
+  :id: 4be320eed27a20a13751915b
+  :zip: '85323'
+  :checkins: 2151
+  :usersCount: 695
+  :tipCount: 6
+- :retailer: St. Francis Nursing Home
+  :id: 4c0450a8310fc9b6a82ac761
+  :zip: '78212'
+  :checkins: 94
+  :usersCount: 25
+  :tipCount: 0
+- :retailer: Marine Corps Recruit Depot (MCRD)
+  :id: 4bfffb2137850f47f681973f
+  :zip: '92140'
+  :checkins: 6544
+  :usersCount: 2322
+  :tipCount: 19
+- :retailer: The Home Depot
+  :id: 4b7f2e33f964a5200a1d30e3
+  :zip: '76180'
+  :checkins: 1519
+  :usersCount: 555
+  :tipCount: 5
+- :retailer: San Jose Home Garage Doors
+  :id: 55c9e95d498e01312120cf12
+  :zip: '95134'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 1
+- :retailer: Home Inspection All Star Austin
+  :id: 54d924d7498eaf90b544b623
+  :zip: '78702'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Indiana Home And Garden Show
+  :id: 4f0a0808e4b06fab1ad29bf2
+  :zip: '46225'
+  :checkins: 9
+  :usersCount: 8
+  :tipCount: 0
+- :retailer: Integrity Funeral Home and Cremations
+  :id: 5543e74b498e37f639ffe64a
+  :zip: '32204'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Home
+  :id: 54dfed34498edb2219438f71
+  :zip: '94122'
+  :checkins: 927
+  :usersCount: 378
+  :tipCount: 24
+- :retailer: AVON Come Home for the Holidays conference (Vets Memorial)
+  :id: 5054db40e4b09a662d79f6c7
+  :zip: '43215'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: P90X Home Gym
+  :id: 50eabdc8e4b03e4452012ae1
+  :zip: '28202'
+  :checkins: 12
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: The Home Depot Dallas Technology Center
+  :id: 535026d9498e2a0cf440eccd
+  :zip: '75063'
+  :checkins: 17
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b3f6197f964a52032a625e3
+  :zip: '48315'
+  :checkins: 2803
+  :usersCount: 816
+  :tipCount: 8
+- :retailer: Cuidado Casero Home Health And Hospice!
+  :id: 50534a05e4b0c6b685155cd2
+  :zip: '79902'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Light Bulb Depot
+  :id: 4bd4ea00cfa7b713022525da
+  :zip: '38112'
+  :checkins: 21
+  :usersCount: 15
+  :tipCount: 0
+- :retailer: Watson Kennedy Fine Home
+  :id: 4b707dcdf964a520c71d2de3
+  :zip: '98104'
+  :checkins: 476
+  :usersCount: 379
+  :tipCount: 6
+- :retailer: home depot installation sevices
+  :id: 50be41a8e4b0de2c4b492af0
+  :zip: '80011'
+  :checkins: 25
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b771531f964a5208d7b2ee3
+  :zip: '22306'
+  :checkins: 2469
+  :usersCount: 997
+  :tipCount: 3
+- :retailer: Mobile Depot
+  :id: 544fcaa1498e72a6429f51d1
+  :zip: 02108
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Tidy Home House Cleaning
+  :id: 5643a8e738fa0b26bf4fa04e
+  :zip:
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b54ced8f964a5206dcd27e3
+  :zip: '21001'
+  :checkins: 1429
+  :usersCount: 440
+  :tipCount: 4
+- :retailer: Lowe's Home Improvement
+  :id: 4b4e5853f964a52033ea26e3
+  :zip: '73139'
+  :checkins: 953
+  :usersCount: 360
+  :tipCount: 5
+- :retailer: Gate in Depot Pertamina Ujungberung
+  :id: 4cab02e69f4776b07a469b13
+  :zip: '40294'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Miller Home Renovations
+  :id: 5582f4a6498e8829ec4ad06e
+  :zip: '97204'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Thomas And Jones Funeral Home
+  :id: 4dd431c4d1649f0f0488252f
+  :zip: '89101'
+  :checkins: 6
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: The Lutheran Home
+  :id: 4b8167d2f964a5201ba430e3
+  :zip: '53213'
+  :checkins: 2286
+  :usersCount: 214
+  :tipCount: 1
+- :retailer: Peaceful Home Passings Veterinary
+  :id: 51c3eb6d2fc604e64e86263f
+  :zip: '87108'
+  :checkins: 3
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Hudgels Swan Funeral Home
+  :id: 5546eaf7498e4eaf94f82bf8
+  :zip: '85711'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Southern Pacific Railroad Depot
+  :id: 4c2e362d4e132d7fdcc39ddf
+  :zip: '93721'
+  :checkins: 19
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Home
+  :id: 4edc16856d869ce1d140178f
+  :zip: '95818'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4ab3e3def964a520f26e20e3
+  :zip: '92821'
+  :checkins: 3022
+  :usersCount: 1052
+  :tipCount: 9
+- :retailer: sebetto Funeral Home
+  :id: 51f99726498e13762043321a
+  :zip:
+  :checkins: 4
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b5523f2f964a5209ddc27e3
+  :zip: '85022'
+  :checkins: 2864
+  :usersCount: 869
+  :tipCount: 7
+- :retailer: home instead senior care office
+  :id: 4f41366ae4b0d98870a6663b
+  :zip: '23502'
+  :checkins: 16
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b631b36f964a52070632ae3
+  :zip: '30253'
+  :checkins: 2205
+  :usersCount: 746
+  :tipCount: 4
+- :retailer: The Home Furnishing Company
+  :id: 50240768e4b090dce17159e7
+  :zip: '80907'
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Samaritan Home Health Care, Inc.
+  :id: 552b6af1498ea8a3d7892560
+  :zip: '68131'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Methodist Home For Children Administrative Headquarters
+  :id: 4ea1c448490102dac251ee62
+  :zip: '27605'
+  :checkins: 6
+  :usersCount: 5
+  :tipCount: 0
+- :retailer: Home Depot
+  :id: 4e17c1282271b0e971f5ee45
+  :zip: '33181'
+  :checkins: 61
+  :usersCount: 11
+  :tipCount: 2
+- :retailer: Home of Chicken and Waffles
+  :id: 439abb44f964a520d22b1fe3
+  :zip: '94607'
+  :checkins: 5459
+  :usersCount: 3652
+  :tipCount: 55
+- :retailer: HOME DEPOT
+  :id: 4f64fe79e4b0656125548c2f
+  :zip:
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Home Team Sports
+  :id: 4f74d123e4b0f06c04e2e660
+  :zip: '74115'
+  :checkins: 171
+  :usersCount: 149
+  :tipCount: 5
+- :retailer: Budweiser Home Run Porch
+  :id: 4bc65a3a51b376b0ef7a1b6f
+  :zip: '44115'
+  :checkins: 550
+  :usersCount: 159
+  :tipCount: 1
+- :retailer: Home Hunters Realty Group
+  :id: 5492f6a1498e787a0e4b941a
+  :zip: '67217'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4b5b9b19f964a520750a29e3
+  :zip: '76248'
+  :checkins: 4124
+  :usersCount: 1025
+  :tipCount: 11
+- :retailer: Home Bank
+  :id: 51536ec7e4b001d404fbb8f8
+  :zip:
+  :checkins: 20
+  :usersCount: 6
+  :tipCount: 0
+- :retailer: Jost Carpet One Floor & Home
+  :id: 570836b2498e3700fe9aed77
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4beebc7a2c082d7f37c53042
+  :zip: '33625'
+  :checkins: 9
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: Wireless Depot
+  :id: 50edf95de4b02f6b2c691611
+  :zip: '96814'
+  :checkins: 3
+  :usersCount: 3
+  :tipCount: 0
+- :retailer: Aurora, CO
+  :id: 4ce3455bbddcb1f77ac07b89
+  :zip: '80011'
+  :checkins: 11364
+  :usersCount: 2053
+  :tipCount: 12
+- :retailer: The Home Depot
+  :id: 4b6dd988f964a52084952ce3
+  :zip: '90703'
+  :checkins: 1828
+  :usersCount: 771
+  :tipCount: 8
+- :retailer: The Home Depot
+  :id: 4ba7d7aaf964a52027b839e3
+  :zip: '90040'
+  :checkins: 1941
+  :usersCount: 620
+  :tipCount: 7
+- :retailer: Home & Garden Show
+  :id: 4d72b084ff6ba35dd75d728a
+  :zip:
+  :checkins: 30
+  :usersCount: 25
+  :tipCount: 0
+- :retailer: Home Depot Distribution Center
+  :id: 4caae6672f08236af8978161
+  :zip: '91764'
+  :checkins: 208
+  :usersCount: 56
+  :tipCount: 1
+- :retailer: Seaside Funeral Home & Memorial Park
+  :id: 4c09219abbc676b0cb9d47d5
+  :zip: '78412'
+  :checkins: 260
+  :usersCount: 144
+  :tipCount: 1
+- :retailer: Kerr Brothers Funeral Home
+  :id: 4cc74abbf2d437047380c76c
+  :zip: '40513'
+  :checkins: 165
+  :usersCount: 67
+  :tipCount: 0
+- :retailer: Lowe's Home Improvement
+  :id: 4adb5c2bf964a520692621e3
+  :zip: '15120'
+  :checkins: 4074
+  :usersCount: 1384
+  :tipCount: 9
+- :retailer: Unity Home Group
+  :id: 52c6d12d498e75d83534b6aa
+  :zip: '99503'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Smiles Depot Dental Group
+  :id: 4e9da75bc2ee2113cb642a57
+  :zip: '95210'
+  :checkins: 16
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Home Helpers of Greater Cincinnati and Northern Kentucky
+  :id: 54f11bd0498e087eec716f6b
+  :zip: '45202'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Union Depot LRT Station
+  :id: 52febfed498eb15d287a2a48
+  :zip: '55101'
+  :checkins: 870
+  :usersCount: 401
+  :tipCount: 3
+- :retailer: Home Cafe
+  :id: 4ff37d4ee4b0fb4a81c12897
+  :zip: '43460'
+  :checkins: 4
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Serenity Funeral Home & Cremation Services
+  :id: 523b1be111d24b54f59371f0
+  :zip: '27405'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4bb20addf964a5200fb43ce3
+  :zip: '07457'
+  :checkins: 5061
+  :usersCount: 1278
+  :tipCount: 9
+- :retailer: The Home Depot
+  :id: 4b64c6e1f964a52052cf2ae3
+  :zip: '75040'
+  :checkins: 1784
+  :usersCount: 643
+  :tipCount: 8
+- :retailer: Depot 3
+  :id: 50010eeee4b0645fecb3f42c
+  :zip: '89015'
+  :checkins: 12
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Women On Wheels(R) Home Office
+  :id: 55391576498e983c7e3926ad
+  :zip:
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Office Depot
+  :id: 4c0a7a18ffb8c9b6e9946b61
+  :zip: '14225'
+  :checkins: 536
+  :usersCount: 344
+  :tipCount: 1
+- :retailer: The Home Depot
+  :id: 4b06b31cf964a520c6ee22e3
+  :zip: 07069
+  :checkins: 4116
+  :usersCount: 1244
+  :tipCount: 5
+- :retailer: Window Depot
+  :id: 4e49bb2f62847afcaf0e517b
+  :zip: '91950'
+  :checkins: 105
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Dans Home Office
+  :id: 4f0237ccbe7bbcd4f5d3dbe3
+  :zip: '46808'
+  :checkins: 214
+  :usersCount: 4
+  :tipCount: 1
+- :retailer: Toggle Toggle home office Orlando Branch
+  :id: 53988b1e498e85ce86d5b99f
+  :zip:
+  :checkins: 133
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: The Home Depot
+  :id: 4beebc7a2c082d7f37c53042
+  :zip: '33625'
+  :checkins: 9
+  :usersCount: 9
+  :tipCount: 0
+- :retailer: 'Home depot DC warehouse #5643'
+  :id: 4f5511cce4b040bb62dceefb
+  :zip: '85353'
+  :checkins: 674
+  :usersCount: 31
+  :tipCount: 0
+- :retailer: Trans Depot
+  :id: 53960092498e2faabd64fe2d
+  :zip:
+  :checkins: 2
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4c2b3de98abca59321ceff1f
+  :zip: '10005'
+  :checkins: 771
+  :usersCount: 280
+  :tipCount: 5
+- :retailer: Starbucks
+  :id: 49cfb3f1f964a520bc5a1fe3
+  :zip: '90230'
+  :checkins: 9181
+  :usersCount: 2126
+  :tipCount: 31
+- :retailer: Starbucks
+  :id: 4e132f5031517911dffda4dd
+  :zip: '60654'
+  :checkins: 11349
+  :usersCount: 1883
+  :tipCount: 16
+- :retailer: Starbucks
+  :id: 4a85fa00f964a520e7ff1fe3
+  :zip: '77057'
+  :checkins: 3806
+  :usersCount: 932
+  :tipCount: 24
+- :retailer: Starbucks
+  :id: 4d34d98ac6cba35d6245377a
+  :zip: '19104'
+  :checkins: 2081
+  :usersCount: 359
+  :tipCount: 10
+- :retailer: Starbucks
+  :id: 4bbd3f2e8ec3d13a29ed1b28
+  :zip: '85260'
+  :checkins: 7861
+  :usersCount: 1689
+  :tipCount: 32
+- :retailer: Starbucks
+  :id: 4b491d33f964a520726626e3
+  :zip: '78230'
+  :checkins: 3918
+  :usersCount: 938
+  :tipCount: 15
+- :retailer: Starbucks
+  :id: 4cb776fbf50e224b4c4fdffb
+  :zip: '22010'
+  :checkins: 5961
+  :usersCount: 1937
+  :tipCount: 80
+- :retailer: Starbucks
+  :id: 4a5a3dcaf964a520f8b91fe3
+  :zip: '75240'
+  :checkins: 4485
+  :usersCount: 1438
+  :tipCount: 14
+- :retailer: Starbucks
+  :id: 40c10d00f964a520d9001fe3
+  :zip: '95050'
+  :checkins: 5394
+  :usersCount: 1299
+  :tipCount: 19
+- :retailer: Starbucks
+  :id: 4a319cbcf964a520049a1fe3
+  :zip: '78704'
+  :checkins: 4107
+  :usersCount: 1203
+  :tipCount: 12
+- :retailer: Starbucks
+  :id: 4b39266ff964a5203a5725e3
+  :zip: '46208'
+  :checkins: 4151
+  :usersCount: 868
+  :tipCount: 11
+- :retailer: Starbucks
+  :id: 4cd0674a01eaf04d5da1b85d
+  :zip: '32244'
+  :checkins: 627
+  :usersCount: 228
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 49d0da91f964a520395b1fe3
+  :zip: '94111'
+  :checkins: 6657
+  :usersCount: 2160
+  :tipCount: 21
+- :retailer: Starbucks
+  :id: 4b0fe9eef964a520306623e3
+  :zip: '43065'
+  :checkins: 5575
+  :usersCount: 785
+  :tipCount: 21
+- :retailer: Starbucks
+  :id: 52b3af7811d2f86b087498ae
+  :zip:
+  :checkins: 694
+  :usersCount: 523
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 4123ed80f964a520410c1fe3
+  :zip: '75039'
+  :checkins: 11833
+  :usersCount: 2996
+  :tipCount: 57
+- :retailer: Starbucks
+  :id: 4ae5af6af964a52073a121e3
+  :zip: '48034'
+  :checkins: 2222
+  :usersCount: 634
+  :tipCount: 12
+- :retailer: Starbucks
+  :id: 4fc94580d4f24895b4467dd2
+  :zip: '79906'
+  :checkins: 4
+  :usersCount: 4
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4cc2e4d9bde8f04d4c42a14b
+  :zip: '38116'
+  :checkins: 668
+  :usersCount: 542
+  :tipCount: 5
+- :retailer: Starbucks
+  :id: 4ad38bb0f964a520dce420e3
+  :zip: '98104'
+  :checkins: 2057
+  :usersCount: 592
+  :tipCount: 9
+- :retailer: Starbucks
+  :id: 4b450c9ff964a520740226e3
+  :zip: '80210'
+  :checkins: 3254
+  :usersCount: 773
+  :tipCount: 16
+- :retailer: Starbucks
+  :id: 4a9c1b58f964a520fe3520e3
+  :zip: '20007'
+  :checkins: 10999
+  :usersCount: 5144
+  :tipCount: 49
+- :retailer: Starbucks
+  :id: 4a7f3917f964a52054f31fe3
+  :zip: 02139
+  :checkins: 11610
+  :usersCount: 3246
+  :tipCount: 33
+- :retailer: Starbucks
+  :id: 4be17ff88e2962b509589b0a
+  :zip: '37221'
+  :checkins: 3024
+  :usersCount: 507
+  :tipCount: 14
+- :retailer: Starbucks @ Mercy
+  :id: 50dd875ee4b09888b3c0a208
+  :zip: '21202'
+  :checkins: 15
+  :usersCount: 2
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 56b3822d498e92f582322688
+  :zip:
+  :checkins: 19
+  :usersCount: 17
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4ba592cdf964a520761339e3
+  :zip: '40241'
+  :checkins: 179
+  :usersCount: 40
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4b996237f964a5205f7735e3
+  :zip: '97209'
+  :checkins: 620
+  :usersCount: 109
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4bd6f9c56f6495213ca771ec
+  :zip: '89130'
+  :checkins: 2956
+  :usersCount: 569
+  :tipCount: 15
+- :retailer: Starbucks
+  :id: 4ae1ffa7f964a520a48921e3
+  :zip: '53132'
+  :checkins: 7419
+  :usersCount: 1190
+  :tipCount: 26
+- :retailer: Starbucks
+  :id: 56783be5498e2bfe414b5599
+  :zip:
+  :checkins: 58
+  :usersCount: 29
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4b4908c4f964a520056326e3
+  :zip: '85741'
+  :checkins: 2039
+  :usersCount: 562
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 4b6a094df964a52046c32be3
+  :zip: '93612'
+  :checkins: 985
+  :usersCount: 437
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 4b3e7625f964a520849d25e3
+  :zip: '95670'
+  :checkins: 4922
+  :usersCount: 955
+  :tipCount: 15
+- :retailer: Starbucks
+  :id: 50bc0fa3e4b0f3b7a3c306f6
+  :zip: '92840'
+  :checkins: 1005
+  :usersCount: 368
+  :tipCount: 15
+- :retailer: Starbucks
+  :id: 4b044b2af964a520f95222e3
+  :zip: '66209'
+  :checkins: 4526
+  :usersCount: 1431
+  :tipCount: 16
+- :retailer: Starbucks
+  :id: 4a41acf6f964a52087a51fe3
+  :zip: '85225'
+  :checkins: 4308
+  :usersCount: 765
+  :tipCount: 11
+- :retailer: Starbucks
+  :id: 4b8695d4f964a520c69031e3
+  :zip: '23456'
+  :checkins: 3369
+  :usersCount: 896
+  :tipCount: 16
+- :retailer: Starbucks
+  :id: 49ebccb7f964a52031671fe3
+  :zip: '30331'
+  :checkins: 4608
+  :usersCount: 1250
+  :tipCount: 22
+- :retailer: Starbucks
+  :id: 4c2add3a355cef3baf1dcd56
+  :zip: '80817'
+  :checkins: 1048
+  :usersCount: 212
+  :tipCount: 10
+- :retailer: Starbucks
+  :id: 4c5c842f2815c928c84ab267
+  :zip: '68116'
+  :checkins: 526
+  :usersCount: 137
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4b142854f964a520299e23e3
+  :zip: '27713'
+  :checkins: 5581
+  :usersCount: 1827
+  :tipCount: 27
+- :retailer: Starbucks
+  :id: 4b608fddf964a520cbed29e3
+  :zip: '33122'
+  :checkins: 5296
+  :usersCount: 1431
+  :tipCount: 16
+- :retailer: Starbucks
+  :id: 4a8ace26f964a520730a20e3
+  :zip: '94111'
+  :checkins: 13067
+  :usersCount: 4258
+  :tipCount: 45
+- :retailer: Starbucks
+  :id: 51478a4be4b07518ab0f896b
+  :zip: '55104'
+  :checkins: 447
+  :usersCount: 60
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 558befa9498eaf19f631e243
+  :zip: '74063'
+  :checkins: 62
+  :usersCount: 16
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4b099e99f964a520781a23e3
+  :zip: '44141'
+  :checkins: 5747
+  :usersCount: 948
+  :tipCount: 14
+- :retailer: Sarah Starbuck @ Skin Essentials
+  :id: 5522ab33498e0412ab6bcd40
+  :zip: '67208'
+  :checkins: 0
+  :usersCount: 0
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4b3ba0b6f964a5205d7725e3
+  :zip: '75052'
+  :checkins: 2924
+  :usersCount: 829
+  :tipCount: 11
+- :retailer: Starbucks
+  :id: 4decf2d945dd3993a8c9db98
+  :zip: '70058'
+  :checkins: 62
+  :usersCount: 48
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 52869069498e3289da674c16
+  :zip: '93304'
+  :checkins: 217
+  :usersCount: 87
+  :tipCount: 1
+- :retailer: Starbucks | UT
+  :id: 55f0a920498e7ae2837fc684
+  :zip:
+  :checkins: 150
+  :usersCount: 20
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4bc217a44cdfc9b67a879521
+  :zip: '96744'
+  :checkins: 3048
+  :usersCount: 654
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 4afda159f964a520492922e3
+  :zip: '80013'
+  :checkins: 4863
+  :usersCount: 661
+  :tipCount: 25
+- :retailer: Starbucks
+  :id: 4b01b8b2f964a520d94422e3
+  :zip: '92626'
+  :checkins: 5631
+  :usersCount: 1127
+  :tipCount: 12
+- :retailer: Starbucks
+  :id: 4a9bf792f964a520983520e3
+  :zip: '92708'
+  :checkins: 3940
+  :usersCount: 1104
+  :tipCount: 11
+- :retailer: Starbucks
+  :id: 4bedcb6b767dc9b6237cd3e9
+  :zip: '63132'
+  :checkins: 4874
+  :usersCount: 1122
+  :tipCount: 25
+- :retailer: Starbucks
+  :id: 4ae721f0f964a520b5a821e3
+  :zip: '91764'
+  :checkins: 2540
+  :usersCount: 987
+  :tipCount: 21
+- :retailer: Barnes & Noble Cafe
+  :id: 4be365a2b02ec9b68e854fc0
+  :zip: '78411'
+  :checkins: 557
+  :usersCount: 244
+  :tipCount: 8
+- :retailer: Starbucks
+  :id: 4cf52437e3b9a093678a5253
+  :zip: '40383'
+  :checkins: 149
+  :usersCount: 55
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4b23ea1ff964a520c45c24e3
+  :zip: '15017'
+  :checkins: 5769
+  :usersCount: 1120
+  :tipCount: 31
+- :retailer: Barnes & Noble Cafe
+  :id: 4cff1cb22685a35d78e2c190
+  :zip: '99503'
+  :checkins: 746
+  :usersCount: 234
+  :tipCount: 3
+- :retailer: Starbucks
+  :id: 4b310eccf964a52049ff24e3
+  :zip: '95242'
+  :checkins: 2402
+  :usersCount: 400
+  :tipCount: 13
+- :retailer: Starbucks
+  :id: 4bb7be2953649c74383446fb
+  :zip: '45231'
+  :checkins: 499
+  :usersCount: 122
+  :tipCount: 4
+- :retailer: Starbucks
+  :id: 4ae3676af964a520959421e3
+  :zip: '55016'
+  :checkins: 2730
+  :usersCount: 411
+  :tipCount: 3
+- :retailer: Starbucks
+  :id: 4ca731ecb0b8236afa79a6e6
+  :zip: '43430'
+  :checkins: 33
+  :usersCount: 33
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4e78ecaed1646aa04d836688
+  :zip: '27284'
+  :checkins: 13
+  :usersCount: 8
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4af4448cf964a520fbf021e3
+  :zip: '10011'
+  :checkins: 10395
+  :usersCount: 5150
+  :tipCount: 59
+- :retailer: Starbucks
+  :id: 4b5cdd96f964a520354829e3
+  :zip: '75034'
+  :checkins: 4712
+  :usersCount: 978
+  :tipCount: 30
+- :retailer: Starbucks
+  :id: 4fd3a30ee4b05a4aba7a4309
+  :zip: '89119'
+  :checkins: 2010
+  :usersCount: 1747
+  :tipCount: 7
+- :retailer: Starbucks at HyVee
+  :id: 5585c2c2498e23507138a1f4
+  :zip:
+  :checkins: 9
+  :usersCount: 7
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4cfbb31dc6cca35d63b38d32
+  :zip: L2G 3W7
+  :checkins: 117
+  :usersCount: 100
+  :tipCount: 1
+- :retailer: Starbucks
+  :id: 4ab26682f964a520106b20e3
+  :zip: '10001'
+  :checkins: 15486
+  :usersCount: 7617
+  :tipCount: 71
+- :retailer: Starbucks
+  :id: 4bb2d2e042959c74db5d212c
+  :zip: '92110'
+  :checkins: 6227
+  :usersCount: 1709
+  :tipCount: 23
+- :retailer: Starbucks Coffee
+  :id: 4e4dc8c9bd41b76bef930d4c
+  :zip: '46714'
+  :checkins: 1
+  :usersCount: 1
+  :tipCount: 0
+- :retailer: Starbucks
+  :id: 4b1c5477f964a520310624e3
+  :zip: '34787'
+  :checkins: 11735
+  :usersCount: 1843
+  :tipCount: 40
+- :retailer: Starbucks
+  :id: 4ba13a3cf964a520f4a337e3
+  :zip: '34209'
+  :checkins: 2761
+  :usersCount: 705
+  :tipCount: 9
+- :retailer: Starbucks
+  :id: 4b62fd55f964a5207a5c2ae3
+  :zip: '85251'
+  :checkins: 5937
+  :usersCount: 1233
+  :tipCount: 27
+- :retailer: Starbucks
+  :id: 4d1d16b1b69c6dcb39cf4f95
+  :zip: '78045'
+  :checkins: 7
+  :usersCount: 7
+  :tipCount: 0
